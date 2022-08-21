@@ -1,0 +1,412 @@
+[
+  {
+    "id": 1,
+    "name": "Bay Bug",
+    "description": "A lobster without claws.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 4540,
+    "image_url": "https://api.dinkumapi.com/images/critters/bay-bug.png"
+  },
+  {
+    "id": 2,
+    "name": "Biscuit Sea Star",
+    "description": "Don't eat it.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1200,
+    "image_url": "https://api.dinkumapi.com/images/critters/biscuit-sea-star.png"
+  },
+  {
+    "id": 3,
+    "name": "Black Sea Cucumber",
+    "description": "I bet it's chewy.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean",
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 12540,
+    "image_url": "https://api.dinkumapi.com/images/critters/black-sea-cucumber.png"
+  },
+  {
+    "id": 4,
+    "name": "Blue Mussel",
+    "description": "Strong but sad.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 799,
+    "image_url": "https://api.dinkumapi.com/images/critters/blue-mussel.png"
+  },
+  {
+    "id": 5,
+    "name": "Blue Sea Slug",
+    "description": "It's got wings!",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Winter"
+      ]
+    },
+    "sell_price": 12540,
+    "image_url": "https://api.dinkumapi.com/images/critters/blue-sea-slug.png"
+  },
+  {
+    "id": 6,
+    "name": "Cushion Sea Star",
+    "description": "It's not that soft.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 2540,
+    "image_url": "https://api.dinkumapi.com/images/critters/cushion-sea-star.png"
+  },
+  {
+    "id": 7,
+    "name": "Eleven-armed Sea Star",
+    "description": "That's a lot of arms!",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 8540,
+    "image_url": "https://api.dinkumapi.com/images/critters/eleven-armed-sea-star.png"
+  },
+  {
+    "id": 8,
+    "name": "Fresh Water Mussel",
+    "description": "Makes you strong!",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 800,
+    "image_url": "https://api.dinkumapi.com/images/critters/fresh-water-mussel.png"
+  },
+  {
+    "id": 9,
+    "name": "Fresh Water Prawn",
+    "description": "Refreshing!",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1540,
+    "image_url": "https://api.dinkumapi.com/images/critters/fresh-water-prawn.png"
+  },
+  {
+    "id": 10,
+    "name": "Inland Crab",
+    "description": "Looks wet to me.",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 740,
+    "image_url": "https://api.dinkumapi.com/images/critters/inland-crab.png"
+  },
+  {
+    "id": 11,
+    "name": "King Prawn",
+    "description": "What majesty!",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3540,
+    "image_url": "https://api.dinkumapi.com/images/critters/king-prawn.png"
+  },
+  {
+    "id": 12,
+    "name": "Mud Crab",
+    "description": "A muddy crab.",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Autumn"
+      ]
+    },
+    "sell_price": 4540,
+    "image_url": "https://api.dinkumapi.com/images/critters/mud-crab.png"
+  },
+  {
+    "id": 13,
+    "name": "Pink Sea Urchin",
+    "description": "Looks like bubble gum.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1540,
+    "image_url": "https://api.dinkumapi.com/images/critters/pink-sea-urchin.png"
+  },
+  {
+    "id": 14,
+    "name": "Purple Mottled Crab",
+    "description": "Looks wet to me.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer"
+      ]
+    },
+    "sell_price": 440,
+    "image_url": "https://api.dinkumapi.com/images/critters/purple-mottled-crab.png"
+  },
+  {
+    "id": 15,
+    "name": "Purple Sea Urchin",
+    "description": "Does it eat people?",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 8040,
+    "image_url": "https://api.dinkumapi.com/images/critters/purple-sea-urchin.png"
+  },
+  {
+    "id": 16,
+    "name": "Spiny Sea Urchin",
+    "description": "It's spikey.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 640,
+    "image_url": "https://api.dinkumapi.com/images/critters/spiny-sea-urchin.png"
+  },
+  {
+    "id": 17,
+    "name": "Tiger Prawn",
+    "description": "Meow.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1540,
+    "image_url": "https://api.dinkumapi.com/images/critters/tiger-prawn.png"
+  },
+  {
+    "id": 18,
+    "name": "White Yabble",
+    "description": "Is it scared?",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 980,
+    "image_url": "https://api.dinkumapi.com/images/critters/white-yabble.png"
+  },
+  {
+    "id": 19,
+    "name": "Yabble",
+    "description": "Like a lobster but it's a yabbie instead.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1899,
+    "image_url": "https://api.dinkumapi.com/images/critters/yabble.png"
+  }
+]

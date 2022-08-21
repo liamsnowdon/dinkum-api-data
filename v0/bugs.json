@@ -1,0 +1,815 @@
+[
+  {
+    "id": 1,
+    "name": "Bee",
+    "description": "A little honey maker. Where's the queen?",
+    "habitats": [
+      "Pine Forests",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 680,
+    "image_url": "https://api.dinkumapi.com/images/bugs/bee.png"
+  },
+  {
+    "id": 2,
+    "name": "Birdwing Butterfly",
+    "description": "It's really rare and big!",
+    "habitats": [
+      "Tropics"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Autumn"
+      ]
+    },
+    "sell_price": 4100,
+    "image_url": "https://api.dinkumapi.com/images/bugs/birdwing-butterfly.png"
+  },
+  {
+    "id": 3,
+    "name": "Black Cricket",
+    "description": "Trying to hide, eh?",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 980,
+    "image_url": "https://api.dinkumapi.com/images/bugs/black-cricket.png"
+  },
+  {
+    "id": 4,
+    "name": "Blue Moon Butterfly",
+    "description": "These are everywhere.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 290,
+    "image_url": "https://api.dinkumapi.com/images/bugs/blue-moon-butterfly.png"
+  },
+  {
+    "id": 5,
+    "name": "Bogong Moth",
+    "description": "Dusty and gross.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 260,
+    "image_url": "https://api.dinkumapi.com/images/bugs/bogong-moth.png"
+  },
+  {
+    "id": 6,
+    "name": "Centipede",
+    "description": "There are at least 4 legs here.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 2220,
+    "image_url": "https://api.dinkumapi.com/images/bugs/centipede.png"
+  },
+  {
+    "id": 7,
+    "name": "Cockroach",
+    "description": "Yuck.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 154,
+    "image_url": "https://api.dinkumapi.com/images/bugs/cockroach.png"
+  },
+  {
+    "id": 8,
+    "name": "Common Blue Tail",
+    "description": "A common dragonfly.",
+    "habitats": [
+      "Pine Forests",
+      "Tropics"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 772,
+    "image_url": "https://api.dinkumapi.com/images/bugs/common-blue-tail.png"
+  },
+  {
+    "id": 9,
+    "name": "Desert Scorpion",
+    "description": "8 legs. Friendlier than it looks.",
+    "habitats": [
+      "Desert"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1212,
+    "image_url": "https://api.dinkumapi.com/images/bugs/desert-scorpion.png"
+  },
+  {
+    "id": 10,
+    "name": "Duskhawker DragonFly",
+    "description": "Coolest name ever.",
+    "habitats": [
+      "Pine Forests",
+      "Tropics"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 2350,
+    "image_url": "https://api.dinkumapi.com/images/bugs/duskhawker-dragon-fly.png"
+  },
+  {
+    "id": 11,
+    "name": "Emperor DragonFly",
+    "description": "It's huge!",
+    "habitats": [
+      "Tropics",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 4172,
+    "image_url": "https://api.dinkumapi.com/images/bugs/emperor-dragon-fly.png"
+  },
+  {
+    "id": 12,
+    "name": "Fiddler Beetle",
+    "description": "The smallest fiddle in the world.",
+    "habitats": [
+      "Tropics",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 2400,
+    "image_url": "https://api.dinkumapi.com/images/bugs/fiddler-beetle.png"
+  },
+  {
+    "id": 13,
+    "name": "Field Cricket",
+    "description": "So small. So loud.",
+    "habitats": [
+      "Plains",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1348,
+    "image_url": "https://api.dinkumapi.com/images/bugs/field-cricket.png"
+  },
+  {
+    "id": 14,
+    "name": "Firefly",
+    "description": "I cannot believe my eyes.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 860,
+    "image_url": "https://api.dinkumapi.com/images/bugs/firefly.png"
+  },
+  {
+    "id": 15,
+    "name": "Fly",
+    "description": "A common fly.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 72,
+    "image_url": "https://api.dinkumapi.com/images/bugs/fly.png"
+  },
+  {
+    "id": 16,
+    "name": "Funnel Web Spider",
+    "description": "Very poisonous. Ain't it cute?",
+    "habitats": [
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 1020,
+    "image_url": "https://api.dinkumapi.com/images/bugs/funnel-web-spider.png"
+  },
+  {
+    "id": 17,
+    "name": "Goliath Stick",
+    "description": "It's a big stick!",
+    "habitats": [
+      "Tropics",
+      "Pine Forests"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Winter"
+      ]
+    },
+    "sell_price": 3330,
+    "image_url": "https://api.dinkumapi.com/images/bugs/goliath-stick.png"
+  },
+  {
+    "id": 18,
+    "name": "Grass Hopper",
+    "description": "Jumpin' for joy.",
+    "habitats": [
+      "Tropics",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 1700,
+    "image_url": "https://api.dinkumapi.com/images/bugs/grass-hopper.png"
+  },
+  {
+    "id": 19,
+    "name": "Harlequin Butterfly",
+    "description": "It's fluttering by, Mr. J.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 2121,
+    "image_url": "https://api.dinkumapi.com/images/bugs/harlequin-butterfly.png"
+  },
+  {
+    "id": 20,
+    "name": "Hercules Moth",
+    "description": "This guy sounds tough.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Winter"
+      ]
+    },
+    "sell_price": 3000,
+    "image_url": "https://api.dinkumapi.com/images/bugs/hercules-moth.png"
+  },
+  {
+    "id": 21,
+    "name": "Huntsman",
+    "description": "It's scary, but nice.",
+    "habitats": [
+      "Desert",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3552,
+    "image_url": "https://api.dinkumapi.com/images/bugs/huntsman.png"
+  },
+  {
+    "id": 22,
+    "name": "Lacewing",
+    "description": "Gentle!",
+    "habitats": [
+      "Pine Forests",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 1680,
+    "image_url": "https://api.dinkumapi.com/images/bugs/lacewing.png"
+  },
+  {
+    "id": 23,
+    "name": "Ladybird",
+    "description": "Is this a bird or a bug?",
+    "habitats": [
+      "Pine Forests",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 1900,
+    "image_url": "https://api.dinkumapi.com/images/bugs/ladybird.png"
+  },
+  {
+    "id": 24,
+    "name": "Largidae",
+    "description": "It's not that large.",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 780,
+    "image_url": "https://api.dinkumapi.com/images/bugs/largidae.png"
+  },
+  {
+    "id": 25,
+    "name": "Meadow Katydid",
+    "description": "Jumpin' for joy.",
+    "habitats": [
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 900,
+    "image_url": "https://api.dinkumapi.com/images/bugs/meadow-katydid.png"
+  },
+  {
+    "id": 26,
+    "name": "Monarch Butterfly",
+    "description": "The queen of butterflies.",
+    "habitats": [
+      "Bushlands",
+      "Pine Forests"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 3860,
+    "image_url": "https://api.dinkumapi.com/images/bugs/monarch-butterfly.png"
+  },
+  {
+    "id": 27,
+    "name": "Paper Wasp",
+    "description": "This thing kills spiders when it's hungry.",
+    "habitats": [
+      "Plains",
+      "Desert"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Autumn"
+      ]
+    },
+    "sell_price": 990,
+    "image_url": "https://api.dinkumapi.com/images/bugs/paper-wasp.png"
+  },
+  {
+    "id": 28,
+    "name": "Peacock Spider",
+    "description": "A fancy little spider.",
+    "habitats": [
+      "Bushlands",
+      "Tropics"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1792,
+    "image_url": "https://api.dinkumapi.com/images/bugs/peacock-spider.png"
+  },
+  {
+    "id": 29,
+    "name": "Pygmyfly",
+    "description": "Small and red.",
+    "habitats": [
+      "Desert",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1672,
+    "image_url": "https://api.dinkumapi.com/images/bugs/pygmyfly.png"
+  },
+  {
+    "id": 30,
+    "name": "Queen Bee",
+    "description": "The boss bee. Can start a hive.",
+    "habitats": [
+      "Pine Forests",
+      "Plains"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 2300,
+    "image_url": "https://api.dinkumapi.com/images/bugs/queen-bee.png"
+  },
+  {
+    "id": 31,
+    "name": "Red Back Spider",
+    "description": "Very poisonous. Ain't it cute?",
+    "habitats": [
+      "Desert"
+    ],
+    "availability": {
+      "time": [
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 1552,
+    "image_url": "https://api.dinkumapi.com/images/bugs/red-back-spider.png"
+  },
+  {
+    "id": 32,
+    "name": "Rhinoceros Beetle",
+    "description": "It can't fly.",
+    "habitats": [
+      "Bushlands",
+      "Pine Forests"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1930,
+    "image_url": "https://api.dinkumapi.com/images/bugs/rhinosceros-beetle.png"
+  },
+  {
+    "id": 33,
+    "name": "Scarlet Jezebel Butterfly",
+    "description": "It's red... I guess?",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 790,
+    "image_url": "https://api.dinkumapi.com/images/bugs/scarlet-jezebel-butterfly.png"
+  },
+  {
+    "id": 34,
+    "name": "Stag Beetle",
+    "description": "Look at the horns!",
+    "habitats": [
+      "Tropics",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 4100,
+    "image_url": "https://api.dinkumapi.com/images/bugs/stag-beetle.png"
+  },
+  {
+    "id": 35,
+    "name": "Stinkbug",
+    "description": "It stinks!",
+    "habitats": [
+      "Everywhere"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Autumn"
+      ]
+    },
+    "sell_price": 300,
+    "image_url": "https://api.dinkumapi.com/images/bugs/stinkbug.png"
+  },
+  {
+    "id": 36,
+    "name": "Swallow-tail Butterfly",
+    "description": "It has a little tail.",
+    "habitats": [
+      "Tropics"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Autumn"
+      ]
+    },
+    "sell_price": 990,
+    "image_url": "https://api.dinkumapi.com/images/bugs/swallow-tail-butterfly.png"
+  },
+  {
+    "id": 37,
+    "name": "Tau Emerald Dragonfly",
+    "description": "Pretty!",
+    "habitats": [
+      "Plains",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Autumn"
+      ]
+    },
+    "sell_price": 2010,
+    "image_url": "https://api.dinkumapi.com/images/bugs/tau-emerald-dragonfly.png"
+  },
+  {
+    "id": 38,
+    "name": "Tiger Moth",
+    "description": "Careful, tiger.",
+    "habitats": [
+      "Plains",
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1360,
+    "image_url": "https://api.dinkumapi.com/images/bugs/tiger-moth.png"
+  },
+  {
+    "id": 39,
+    "name": "Trogid",
+    "description": "It can't fly.",
+    "habitats": [
+      "Desert"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 1400,
+    "image_url": "https://api.dinkumapi.com/images/bugs/trogoid.png"
+  },
+  {
+    "id": 40,
+    "name": "Ulysses Butterfly",
+    "description": "Nice bug, bro.",
+    "habitats": [
+      "Bushlands"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 660,
+    "image_url": "https://api.dinkumapi.com/images/bugs/ulysses-butterfly.png"
+  }
+]

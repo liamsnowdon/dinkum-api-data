@@ -1,0 +1,699 @@
+[
+  {
+    "id": 1,
+    "name": "Anchovy",
+    "description": "So small.",
+    "habitats": [
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 4500,
+    "image_url": "https://api.dinkumapi.com/images/fish/anchovy.png"
+  },
+  {
+    "id": 2,
+    "name": "Banded Morwong",
+    "description": "Good fish. You're not Morwong about that.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Winter"
+      ]
+    },
+    "sell_price": 4320,
+    "image_url": "https://api.dinkumapi.com/images/fish/banded-morwong.png"
+  },
+  {
+    "id": 3,
+    "name": "Barcoo Grunter",
+    "description": "Beep. Beep. Grunt.",
+    "habitats": [
+      "Rivers",
+      "Billabongs",
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1290,
+    "image_url": "https://api.dinkumapi.com/images/fish/banded-morwong.png"
+  },
+  {
+    "id": 4,
+    "name": "Barracuda",
+    "description": "Oooooo.",
+    "habitats": [
+      "Northern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 16000,
+    "image_url": "https://api.dinkumapi.com/images/fish/barracuda.png"
+  },
+  {
+    "id": 5,
+    "name": "Barramundi",
+    "description": "That's good eatin' eh?",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 8416,
+    "image_url": "https://api.dinkumapi.com/images/fish/barramundi.png"
+  },
+  {
+    "id": 6,
+    "name": "Blackfish",
+    "description": "A black fish!",
+    "habitats": [
+      "Billabongs",
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 3908,
+    "image_url": "https://api.dinkumapi.com/images/fish/blackfish.png"
+  },
+  {
+    "id": 7,
+    "name": "Black & White Snapper",
+    "description": "Snap.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 1992,
+    "image_url": "https://api.dinkumapi.com/images/fish/black-and-white-snapper.png"
+  },
+  {
+    "id": 8,
+    "name": "Blob Fish",
+    "description": "What is this?",
+    "habitats": [
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 100,
+    "image_url": "https://api.dinkumapi.com/images/fish/blob-fish.png"
+  },
+  {
+    "id": 9,
+    "name": "Blue Sport Flathead",
+    "description": "It's head is flat and it's eyes are on top.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 998,
+    "image_url": "https://api.dinkumapi.com/images/fish/blue-spotted-flathead.png"
+  },
+  {
+    "id": 10,
+    "name": "Bluefish",
+    "description": "An ocean fish that is blue.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1560,
+    "image_url": "https://api.dinkumapi.com/images/fish/bluefish.png"
+  },
+  {
+    "id": 11,
+    "name": "Bonytongue",
+    "description": "Cheeky fish.",
+    "habitats": [
+      "Billabongs"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3308,
+    "image_url": "https://api.dinkumapi.com/images/fish/bonytongue.png"
+  },
+  {
+    "id": 12,
+    "name": "Boofhead Catfish",
+    "description": "Bit of a mean name.",
+    "habitats": [
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 2103,
+    "image_url": "https://api.dinkumapi.com/images/fish/boofhead-catfish.png"
+  },
+  {
+    "id": 13,
+    "name": "Carp",
+    "description": "Latin the day.",
+    "habitats": [
+      "Rivers",
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1996,
+    "image_url": "https://api.dinkumapi.com/images/fish/carp.png"
+  },
+  {
+    "id": 14,
+    "name": "Eel Tailed Catfish",
+    "description": "Gross tail!",
+    "habitats": [
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1408,
+    "image_url": "https://api.dinkumapi.com/images/fish/eel-tailed-catfish.png"
+  },
+  {
+    "id": 15,
+    "name": "Eyestripe Surgeon Fish",
+    "description": "This guy is a doctor.",
+    "habitats": [
+      "Northern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 3996,
+    "image_url": "https://api.dinkumapi.com/images/fish/eyestripe-surgeon-fish.png"
+  },
+  {
+    "id": 16,
+    "name": "Galaxias",
+    "description": "Tiny and bright.",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Winter"
+      ]
+    },
+    "sell_price": 4808,
+    "image_url": "https://api.dinkumapi.com/images/fish/galaxias.png"
+  },
+  {
+    "id": 17,
+    "name": "Garfish",
+    "description": "It hates Mondays.",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Winter"
+      ]
+    },
+    "sell_price": 2346,
+    "image_url": "https://api.dinkumapi.com/images/fish/garfish.png"
+  },
+  {
+    "id": 18,
+    "name": "Goat Fish",
+    "description": "It's not a fish?",
+    "habitats": [
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 3200,
+    "image_url": "https://api.dinkumapi.com/images/fish/goat-fish.png"
+  },
+  {
+    "id": 19,
+    "name": "Golden Perch",
+    "description": "Gold belly on this Perch.",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Spring"
+      ]
+    },
+    "sell_price": 4384,
+    "image_url": "https://api.dinkumapi.com/images/fish/golden-perch.png"
+  },
+  {
+    "id": 20,
+    "name": "Grayling",
+    "description": "What's a full grown gray look like?",
+    "habitats": [
+      "Billabongs",
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 2508,
+    "image_url": "https://api.dinkumapi.com/images/fish/grayling.png"
+  },
+  {
+    "id": 21,
+    "name": "Jungle Perch",
+    "description": "Welcome to the river. We've got perch.",
+    "habitats": [
+      "Billabongs",
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1200,
+    "image_url": "https://api.dinkumapi.com/images/fish/jungle-perch.png"
+  },
+  {
+    "id": 22,
+    "name": "Luderick",
+    "description": "This is a Luderick-us fish.",
+    "habitats": [
+      "Northern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Winter"
+      ]
+    },
+    "sell_price": 4160,
+    "image_url": "https://api.dinkumapi.com/images/fish/luderick.png"
+  },
+  {
+    "id": 23,
+    "name": "Mangrove Jack",
+    "description": "Jack?",
+    "habitats": [
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3498,
+    "image_url": "https://api.dinkumapi.com/images/fish/mangrove-jack.png"
+  },
+  {
+    "id": 24,
+    "name": "Marlin",
+    "description": "Big fish, big nose.",
+    "habitats": [
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Day"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 20200,
+    "image_url": "https://api.dinkumapi.com/images/fish/marlin.png"
+  },
+  {
+    "id": 25,
+    "name": "Murray Cod",
+    "description": "A massive fish!",
+    "habitats": [
+      "Rivers"
+    ],
+    "availability": {
+      "time": [
+        "Morning"
+      ],
+      "seasons": [
+        "Spring",
+        "Winter"
+      ]
+    },
+    "sell_price": 10400,
+    "image_url": "https://api.dinkumapi.com/images/fish/murray-cod.png"
+  },
+  {
+    "id": 26,
+    "name": "River Bass",
+    "description": "A fresh water bass. Ain't rare.",
+    "habitats": [
+      "Rivers",
+      "Mangroves"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring"
+      ]
+    },
+    "sell_price": 2784,
+    "image_url": "https://api.dinkumapi.com/images/fish/river-bass.png"
+  },
+  {
+    "id": 27,
+    "name": "Saratoga",
+    "description": "It might be Roman?",
+    "habitats": [
+      "Billabongs"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Autumn"
+      ]
+    },
+    "sell_price": 7616,
+    "image_url": "https://api.dinkumapi.com/images/fish/saratoga.png"
+  },
+  {
+    "id": 28,
+    "name": "Short Finned Eel",
+    "description": "Like a water snake.",
+    "habitats": [
+      "Billabongs"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3008,
+    "image_url": "https://api.dinkumapi.com/images/fish/short-finned-eel.png"
+  },
+  {
+    "id": 29,
+    "name": "Silver Perch",
+    "description": "Shiny.",
+    "habitats": [
+      "Rivers",
+      "Billabongs"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 1708,
+    "image_url": "https://api.dinkumapi.com/images/fish/silver-perch.png"
+  },
+  {
+    "id": 30,
+    "name": "Stingray",
+    "description": "Is this a fish?",
+    "habitats": [
+      "Northern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Autumn"
+      ]
+    },
+    "sell_price": 3396,
+    "image_url": "https://api.dinkumapi.com/images/fish/stingray.png"
+  },
+  {
+    "id": 31,
+    "name": "Tarpon",
+    "description": "A billabong shark.",
+    "habitats": [
+      "Billabongs"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Summer",
+        "Spring",
+        "Autumn",
+        "Winter"
+      ]
+    },
+    "sell_price": 3960,
+    "image_url": "https://api.dinkumapi.com/images/fish/tarpon.png"
+  },
+  {
+    "id": 32,
+    "name": "Trevalla",
+    "description": "I will call him Trevor.",
+    "habitats": [
+      "Northern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Day",
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 7800,
+    "image_url": "https://api.dinkumapi.com/images/fish/trevalla.png"
+  },
+  {
+    "id": 33,
+    "name": "Yellowfin Tuna",
+    "description": "A massive fish!",
+    "habitats": [
+      "Northern Ocean",
+      "Southern Ocean"
+    ],
+    "availability": {
+      "time": [
+        "Morning",
+        "Night"
+      ],
+      "seasons": [
+        "Spring",
+        "Autumn"
+      ]
+    },
+    "sell_price": 24600,
+    "image_url": "https://api.dinkumapi.com/images/fish/yellowfin-tuna.png"
+  }
+]
