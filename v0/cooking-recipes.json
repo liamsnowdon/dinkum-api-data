@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1,
+    "name": "Bread",
+    "description": "Cooked Flour",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 35
+      },
+      {
+        "type": "Stamina",
+        "value": 25
+      },
+      {
+        "type": "Defence Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 3
+      }
+    ],
+    "sell_price": 6300,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/bread.png"
+  },
+  {
+    "id": 2,
+    "name": "Dagwood Dog",
+    "description": "A corn covered hotdog.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 15
+      },
+      {
+        "type": "Stamina",
+        "value": 25
+      },
+      {
+        "type": "Attack Buff",
+        "value": 180
+      },
+      {
+        "type": "Defence Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Corn",
+        "amount": 1
+      },
+      {
+        "name": "Meat",
+        "amount": 1
+      },
+      {
+        "name": "Mangrove Stick",
+        "amount": 1
+      }
+    ],
+    "sell_price": 1060,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/dagwood-dog.png"
+  },
+  {
+    "id": 3,
+    "name": "Damper",
+    "description": "Bush Bread",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 25
+      },
+      {
+        "type": "Stamina",
+        "value": 15
+      },
+      {
+        "type": "Mining Buff",
+        "value": 300
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Milk",
+        "amount": 1
+      }
+    ],
+    "sell_price": 3975,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/damper.png"
+  },
+  {
+    "id": 4,
+    "name": "Fairy Bread",
+    "description": "Sugar Bread",
+    "effects": [
+      {
+        "type": "Stamina",
+        "value": 10
+      },
+      {
+        "type": "Speed Buff",
+        "value": 120
+      }
+    ],
+    "materials": [
+      {
+        "name": "Bread",
+        "amount": 1
+      },
+      {
+        "name": "Sugar",
+        "amount": 2
+      }
+    ],
+    "sell_price": 2569,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fairy-bread.png"
+  },
+  {
+    "id": 5,
+    "name": "Fish and Chips",
+    "description": "From the water and the dirt.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 10
+      },
+      {
+        "type": "Stamina",
+        "value": 30
+      },
+      {
+        "type": "Fishing Buff",
+        "value": 1200
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flake",
+        "amount": 1
+      },
+      {
+        "name": "Potato",
+        "amount": 2
+      },
+      {
+        "name": "Bush Lime",
+        "amount": 1
+      }
+    ],
+    "sell_price": 2900,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fish-and-chips.png"
+  },
+  {
+    "id": 6,
+    "name": "Fruit Salad",
+    "description": "Yummy Yummy",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 10
+      },
+      {
+        "type": "Stamina",
+        "value": 20
+      },
+      {
+        "type": "Defence Buff",
+        "value": 300
+      }
+    ],
+    "materials": [
+      {
+        "name": "Bush Lime",
+        "amount": 2
+      },
+      {
+        "name": "Apple",
+        "amount": 2
+      },
+      {
+        "name": "Bananas",
+        "amount": 2
+      },
+      {
+        "name": "Quandong",
+        "amount": 2
+      }
+    ],
+    "sell_price": 1388,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fruit-salad.png"
+  },
+  {
+    "id": 7,
+    "name": "Garden Salad",
+    "description": "Crunchy and fresh!",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 20
+      },
+      {
+        "type": "Stamina",
+        "value": 20
+      },
+      {
+        "type": "Defence Buff",
+        "value": 120
+      }
+    ],
+    "materials": [
+      {
+        "name": "Cabbage",
+        "amount": 1
+      },
+      {
+        "name": "Tomato",
+        "amount": 1
+      },
+      {
+        "name": "Onion",
+        "amount": 1
+      }
+    ],
+    "sell_price": 3189,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/garden-salad.png"
+  },
+  {
+    "id": 8,
+    "name": "Hearty Stew",
+    "description": "Warm in your tum.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 45
+      },
+      {
+        "type": "Stamina",
+        "value": 10
+      },
+      {
+        "type": "Attack Buff",
+        "value": 180
+      },
+      {
+        "type": "Defence Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Meat",
+        "amount": 1
+      },
+      {
+        "name": "Potato",
+        "amount": 1
+      },
+      {
+        "name": "Onion",
+        "amount": 1
+      },
+      {
+        "name": "Carrot",
+        "amount": 1
+      }
+    ],
+    "sell_price": 2456,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/hearty-stew.png"
+  },
+  {
+    "id": 9,
+    "name": "Lamington",
+    "description": "Celebrate!",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 30
+      },
+      {
+        "type": "Stamina",
+        "value": 30
+      },
+      {
+        "type": "Defence Buff",
+        "value": 240
+      },
+      {
+        "type": "Speed Buff",
+        "value": 60
+      },
+      {
+        "type": "Mining Buff",
+        "value": 240
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Sugar",
+        "amount": 1
+      },
+      {
+        "name": "Cocnut",
+        "amount": 1
+      },
+      {
+        "name": "Chicken Egg",
+        "amount": 1
+      },
+      {
+        "name": "Milk",
+        "amount": 1
+      }
+    ],
+    "sell_price": 5939,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/lamington.png"
+  },
+  {
+    "id": 10,
+    "name": "Meat on a stick",
+    "description": "It's like meat but stickier.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 35
+      },
+      {
+        "type": "Stamina",
+        "value": 15
+      },
+      {
+        "type": "Defence Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Meat",
+        "amount": 3
+      },
+      {
+        "name": "Mangrove Stick",
+        "amount": 1
+      }
+    ],
+    "sell_price": 1612,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/meat-on-a-stick.png"
+  },
+  {
+    "id": 11,
+    "name": "Meat Pie",
+    "description": "Get it in ya!",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 25
+      },
+      {
+        "type": "Stamina",
+        "value": 5
+      },
+      {
+        "type": "Weapon Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Meat",
+        "amount": 1
+      },
+      {
+        "name": "Raw Drumstick",
+        "amount": 1
+      }
+    ],
+    "sell_price": 3038,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/meat-pie.png"
+  },
+  {
+    "id": 12,
+    "name": "Pastie",
+    "description": "Hand held vegie pie.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 30
+      },
+      {
+        "type": "Stamina",
+        "value": 30
+      },
+      {
+        "type": "Mining Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Cabbage",
+        "amount": 1
+      },
+      {
+        "name": "Carrot",
+        "amount": 1
+      },
+      {
+        "name": "Potato",
+        "amount": 1
+      }
+    ],
+    "sell_price": 5681,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/pastie.png"
+  },
+  {
+    "id": 13,
+    "name": "Pavlova",
+    "description": "Celebrate the best way!",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 45
+      },
+      {
+        "type": "Stamina",
+        "value": 45
+      },
+      {
+        "type": "Speed Buff",
+        "value": 180
+      }
+    ],
+    "materials": [
+      {
+        "name": "Big Chicken Egg",
+        "amount": 4
+      },
+      {
+        "name": "Sugar",
+        "amount": 2
+      },
+      {
+        "name": "Fruit Salad",
+        "amount": 1
+      }
+    ],
+    "sell_price": 6860,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/pavlova.png"
+  },
+  {
+    "id": 14,
+    "name": "Prime Roast",
+    "description": "All the best stuff on one plate.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 50
+      },
+      {
+        "type": "Stamina",
+        "value": 50
+      },
+      {
+        "type": "Attack Buff",
+        "value": 300
+      },
+      {
+        "type": "Defence Buff",
+        "value": 300
+      }
+    ],
+    "materials": [
+      {
+        "name": "Raw Prime Meat",
+        "amount": 1
+      },
+      {
+        "name": "Potato",
+        "amount": 3
+      },
+      {
+        "name": "Carrot",
+        "amount": 2
+      },
+      {
+        "name": "Kale",
+        "amount": 1
+      },
+      {
+        "name": "Green Bean",
+        "amount": 3
+      },
+      {
+        "name": "Pumpkin",
+        "amount": 1
+      }
+    ],
+    "sell_price": 12994,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/prime-roast.png"
+  },
+  {
+    "id": 15,
+    "name": "Quiche",
+    "description": "Breakfast cake.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 20
+      },
+      {
+        "type": "Stamina",
+        "value": 30
+      },
+      {
+        "type": "Speed Buff",
+        "value": 300
+      },
+      {
+        "type": "Mining Buff",
+        "value": 300
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Chicken Egg",
+        "amount": 1
+      },
+      {
+        "name": "Cheese",
+        "amount": 1
+      }
+    ],
+    "sell_price": 5538,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/quiche.png"
+  },
+  {
+    "id": 16,
+    "name": "Sausage Roll",
+    "description": "Long way to the shop.",
+    "effects": [
+      {
+        "type": "Health",
+        "value": 30
+      },
+      {
+        "type": "Stamina",
+        "value": 30
+      },
+      {
+        "type": "Attack Buff",
+        "value": 300
+      },
+      {
+        "type": "Defence Buff",
+        "value": 300
+      },
+      {
+        "type": "Speed Buff",
+        "value": 300
+      }
+    ],
+    "materials": [
+      {
+        "name": "Flour",
+        "amount": 1
+      },
+      {
+        "name": "Chicken Egg",
+        "amount": 1
+      },
+      {
+        "name": "Meat",
+        "amount": 1
+      },
+      {
+        "name": "Onion",
+        "amount": 1
+      }
+    ],
+    "sell_price": 3600,
+    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/sausage-roll.png"
+  }
+]
