@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Clover",
+    "occupation": "Tailor",
+    "favourite_food": "Apple",
+    "dislikes": [
+      "Cooked Drumstick",
+      "Meat",
+      "Vegetables"
+    ],
+    "building": "Threadspace",
+    "image_url": "https://api.dinkumapi.com/images/people/clover.png"
+  },
+  {
+    "id": 2,
+    "name": "Franklyn",
+    "occupation": "Inventor",
+    "favourite_food": "Cooked Giant Drumstrick",
+    "dislikes": [
+      "Bush Lime",
+      "Vegetables"
+    ],
+    "building": "Franklyn's Lab",
+    "image_url": "https://api.dinkumapi.com/images/people/franklyn.png"
+  },
+  {
+    "id": 3,
+    "name": "Fletch",
+    "occupation": "License Vendor",
+    "favourite_food": "Bush Lime",
+    "dislikes": [
+      "Crocodile Meat",
+      "Meat"
+    ],
+    "building": "Town Hall",
+    "image_url": "https://api.dinkumapi.com/images/people/fletch.png"
+  },
+  {
+    "id": 4,
+    "name": "Irwin",
+    "occupation": "Animal Ranching",
+    "favourite_food": "Bananas",
+    "dislikes": [
+      "Cooked Croco Meat",
+      "Meat",
+      "Animals"
+    ],
+    "building": "Irwin's Barn",
+    "image_url": "https://api.dinkumapi.com/images/people/irwin.png"
+  },
+  {
+    "id": 5,
+    "name": "Jimmy",
+    "occupation": "Businessman",
+    "favourite_food": null,
+    "dislikes": [],
+    "building": null,
+    "image_url": "https://api.dinkumapi.com/images/people/jimmy.png"
+  },
+  {
+    "id": 6,
+    "name": "John",
+    "occupation": "General Store",
+    "favourite_food": "Cooked Croco Meat",
+    "dislikes": [
+      "Potato",
+      "Animals",
+      "Fruit"
+    ],
+    "building": "John's Goods",
+    "image_url": "https://api.dinkumapi.com/images/people/john.png"
+  },
+  {
+    "id": 7,
+    "name": "Melvin",
+    "occupation": "Furniture",
+    "favourite_food": "Cooked Meat",
+    "dislikes": [
+      "Chicken Egg",
+      "Animals"
+    ],
+    "building": "Melvin Furniture",
+    "image_url": "https://api.dinkumapi.com/images/people/melvin.png"
+  },
+  {
+    "id": 8,
+    "name": "Milburn",
+    "occupation": "Banker",
+    "favourite_food": "High Quality Cheese",
+    "dislikes": [
+      "Cheese",
+      "Fruit"
+    ],
+    "building": "Bank",
+    "image_url": "https://api.dinkumapi.com/images/people/milburn.png"
+  },
+  {
+    "id": 9,
+    "name": "Rayne",
+    "occupation": "Agriculturist",
+    "favourite_food": "Corn",
+    "dislikes": [
+      "Pumpkin",
+      "Animals",
+      "Meat"
+    ],
+    "building": "Rayne's Greenhouse",
+    "image_url": "https://api.dinkumapi.com/images/people/rayne.png"
+  },
+  {
+    "id": 10,
+    "name": "Sally",
+    "occupation": "Hairdresser",
+    "favourite_food": "Mushroom",
+    "dislikes": [
+      "Cabbage",
+      "Animals"
+    ],
+    "building": "Hairdressers",
+    "image_url": "https://api.dinkumapi.com/images/people/sally.png"
+  },
+  {
+    "id": 11,
+    "name": "Ted Selly",
+    "occupation": "Wanderer",
+    "favourite_food": "Cooked Drumstick",
+    "dislikes": [
+      "Kale",
+      "Animals",
+      "Fruit",
+      "Vegetables"
+    ],
+    "building": null,
+    "image_url": "https://api.dinkumapi.com/images/people/ted-selly.png"
+  },
+  {
+    "id": 12,
+    "name": "Theodore",
+    "occupation": "Museum Curator",
+    "favourite_food": "Cooked Cactus Fig",
+    "dislikes": [
+      "Cactus Fig"
+    ],
+    "building": "Museum",
+    "image_url": "https://api.dinkumapi.com/images/people/theodore.png"
+  }
+]
