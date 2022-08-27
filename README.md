@@ -2,7 +2,21 @@
 
 ### Introduction:
 
-Dinkum API is a **free RESTful API** for **fish**, **bugs**, **critters**, **people**, **licences** and **consumables** from Dinkum.
+Dinkum API is a **free RESTful API** for data from the video game Dinkum.
+
+Supported data includes:
+
+- **Fish**
+- **Bugs**
+- **Critters**
+- **People**
+- **Licences**
+- **Consumables**
+- **Furniture**
+
+Additional data planned in the future:
+
+- **Recipes**
 
 If any of the information on the website is wrong or outdated, please make a pull request or raise an issue on this repository.
 
