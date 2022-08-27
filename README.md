@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-Dinkum API is a **free RESTful API** for **fish**, **bugs** and **critters** from Dinkum.
+Dinkum API is a **free RESTful API** for **fish**, **bugs**, **critters** and **people** from Dinkum.
 
 If any of the information on the website is wrong or outdated, please make a pull request or raise an issue on this repository.
 
