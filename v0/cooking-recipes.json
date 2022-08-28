@@ -20,7 +20,8 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       }
     ],
     "sell_price": 6300,
@@ -51,15 +52,18 @@
     "materials": [
       {
         "name": "Corn",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/corn.png"
       },
       {
-        "name": "Meat",
-        "amount": 1
+        "name": "Raw Meat",
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
       },
       {
         "name": "Mangrove Stick",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/mangrove-stick.png"
       }
     ],
     "sell_price": 1060,
@@ -86,11 +90,13 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
         "name": "Milk",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/milk.png"
       }
     ],
     "sell_price": 3975,
@@ -113,11 +119,13 @@
     "materials": [
       {
         "name": "Bread",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bread.png"
       },
       {
         "name": "Sugar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/sugar.png"
       }
     ],
     "sell_price": 2569,
@@ -144,15 +152,18 @@
     "materials": [
       {
         "name": "Flake",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flake.png"
       },
       {
         "name": "Potato",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/potato.png"
       },
       {
         "name": "Bush Lime",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bush-lime.png"
       }
     ],
     "sell_price": 2900,
@@ -179,19 +190,23 @@
     "materials": [
       {
         "name": "Bush Lime",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/bush-lime.png"
       },
       {
         "name": "Apple",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/apple.png"
       },
       {
         "name": "Bananas",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/bananas.png"
       },
       {
         "name": "Quandong",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/quandong.png"
       }
     ],
     "sell_price": 1388,
@@ -218,15 +233,18 @@
     "materials": [
       {
         "name": "Cabbage",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/cabbage.png"
       },
       {
         "name": "Tomato",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tomato.png"
       },
       {
         "name": "Onion",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/onion.png"
       }
     ],
     "sell_price": 3189,
@@ -256,20 +274,24 @@
     ],
     "materials": [
       {
-        "name": "Meat",
-        "amount": 1
+        "name": "Raw Meat",
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
       },
       {
         "name": "Potato",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/potato.png"
       },
       {
         "name": "Onion",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/onion.png"
       },
       {
         "name": "Carrot",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/carrot.png"
       }
     ],
     "sell_price": 2456,
@@ -304,23 +326,28 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
         "name": "Sugar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/sugar.png"
       },
       {
-        "name": "Cocnut",
-        "amount": 1
+        "name": "Coconut",
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/coconut.png"
       },
       {
         "name": "Chicken Egg",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/chicken-egg.png"
       },
       {
         "name": "Milk",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/milk.png"
       }
     ],
     "sell_price": 5939,
@@ -346,12 +373,14 @@
     ],
     "materials": [
       {
-        "name": "Meat",
-        "amount": 3
+        "name": "Raw Meat",
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
       },
       {
         "name": "Mangrove Stick",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/mangrove-stick.png"
       }
     ],
     "sell_price": 1612,
@@ -378,15 +407,18 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
-        "name": "Meat",
-        "amount": 1
+        "name": "Raw Meat",
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
       },
       {
         "name": "Raw Drumstick",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-drumstick.png"
       }
     ],
     "sell_price": 3038,
@@ -413,19 +445,23 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
         "name": "Cabbage",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/cabbage.png"
       },
       {
         "name": "Carrot",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/carrot.png"
       },
       {
         "name": "Potato",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/potato.png"
       }
     ],
     "sell_price": 5681,
@@ -452,15 +488,18 @@
     "materials": [
       {
         "name": "Big Chicken Egg",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/big-chicken-egg.png"
       },
       {
         "name": "Sugar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/sugar.png"
       },
       {
         "name": "Fruit Salad",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/fruit-salad.png"
       }
     ],
     "sell_price": 6860,
@@ -491,27 +530,33 @@
     "materials": [
       {
         "name": "Raw Prime Meat",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-prime-meat.png"
       },
       {
         "name": "Potato",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/potato.png"
       },
       {
         "name": "Carrot",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/carrot.png"
       },
       {
         "name": "Kale",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/kale.png"
       },
       {
         "name": "Green Bean",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/green-bean.png"
       },
       {
         "name": "Pumpkin",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/pumpkin.png"
       }
     ],
     "sell_price": 12994,
@@ -542,15 +587,18 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
         "name": "Chicken Egg",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/chicken-egg.png"
       },
       {
         "name": "Cheese",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/cheese.png"
       }
     ],
     "sell_price": 5538,
@@ -585,19 +633,23 @@
     "materials": [
       {
         "name": "Flour",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/flour.png"
       },
       {
         "name": "Chicken Egg",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/chicken-egg.png"
       },
       {
-        "name": "Meat",
-        "amount": 1
+        "name": "Raw Meat",
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
       },
       {
         "name": "Onion",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/onion.png"
       }
     ],
     "sell_price": 3600,
