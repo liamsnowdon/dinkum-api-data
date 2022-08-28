@@ -1,0 +1,2426 @@
+[
+  {
+    "id": 1,
+    "name": "Animal Trap",
+    "description": "Catch some stuff.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Old Spring",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Trapping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/trapping.png"
+    },
+    "sell_price": 4025,
+    "image_url": "https://api.dinkumapi.com/images/items/animal-trap.png"
+  },
+  {
+    "id": 2,
+    "name": "Basic Hammer",
+    "description": "A big hammer for hitting things slowly.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 2062,
+    "image_url": "https://api.dinkumapi.com/images/items/basic-hammer.png"
+  },
+  {
+    "id": 3,
+    "name": "Basic Spear",
+    "description": "Long and sharp.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 812,
+    "image_url": "https://api.dinkumapi.com/images/items/basic-spear.png"
+  },
+  {
+    "id": 4,
+    "name": "Copper Axe",
+    "description": "A more advanced axe.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Basic Axe",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Logging",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/logging.png"
+    },
+    "sell_price": 3125,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-axe.png"
+  },
+  {
+    "id": 5,
+    "name": "Copper Fishing Rod",
+    "description": "Can reel faster.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Fishing Rod",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Fishing",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/fishing.png"
+    },
+    "sell_price": 3288,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-fishing-rod.png"
+  },
+  {
+    "id": 6,
+    "name": "Copper Hammer",
+    "description": "A big hammer for hitting things slowly.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 3938,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-hammer.png"
+  },
+  {
+    "id": 7,
+    "name": "Copper Hoe",
+    "description": "Hoe the dirt. Make it all soft and stuff.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Hoe",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 3000,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-hoe.png"
+  },
+  {
+    "id": 8,
+    "name": "Copper Pickaxe",
+    "description": "Faster and better than a regular pickaxe.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Basic Pickaxe",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Mining",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/mining.png"
+    },
+    "sell_price": 3250,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-pickaxe.png"
+  },
+  {
+    "id": 9,
+    "name": "Copper Spear",
+    "description": "Long and sharper.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 2781,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-spear.png"
+  },
+  {
+    "id": 10,
+    "name": "Copper Watering Can",
+    "description": "Carries water from point A to point B.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Basic Watering Can",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 5
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 12500,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-watering-can.png"
+  },
+  {
+    "id": 11,
+    "name": "Croc Teeth Bat",
+    "description": "Snap?",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Cooper Bar",
+        "amount": 1
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      },
+      {
+        "name": "Crocodile Tooth",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 11025,
+    "image_url": "https://api.dinkumapi.com/images/items/croc-teeth-bat.png"
+  },
+  {
+    "id": 12,
+    "name": "Flaming Bat",
+    "description": "It's hot!",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      },
+      {
+        "name": "Flame Sac",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 16275,
+    "image_url": "https://api.dinkumapi.com/images/items/flaming-bat.png"
+  },
+  {
+    "id": 13,
+    "name": "Iron Axe",
+    "description": "A very strong axe.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Copper Axe",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Logging",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/logging.png"
+    },
+    "sell_price": 8906,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-axe.png"
+  },
+  {
+    "id": 14,
+    "name": "Iron Fishing Rod",
+    "description": "Can reel in the biggest fish in the ocean",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Copper Fishing Rod",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Fishing",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/fishing.png"
+    },
+    "sell_price": 9110,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-fishing-rod.png"
+  },
+  {
+    "id": 15,
+    "name": "Iron Hammer",
+    "description": "A big hammer for hitting things slowly.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 8125,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-hammer.png"
+  },
+  {
+    "id": 16,
+    "name": "Iron Hoe",
+    "description": "Hoe the dirt. Make it all soft and stuff.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Copper Hoe",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 8750,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-hoe.png"
+  },
+  {
+    "id": 17,
+    "name": "Iron Pickaxe",
+    "description": "A really good pickaxe.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Copper Pickaxe",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Mining",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/mining.png"
+    },
+    "sell_price": 9062,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-pickaxe.png"
+  },
+  {
+    "id": 18,
+    "name": "Iron Spear",
+    "description": "Long and sharper.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 5281,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-spear.png"
+  },
+  {
+    "id": 19,
+    "name": "Iron Watering Can",
+    "description": "Carries water from point A to point B.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Copper Watering Can",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 5
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 28125,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-watering-can.png"
+  },
+  {
+    "id": 20,
+    "name": "Scythe",
+    "description": "I'm scythed about this.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 906,
+    "image_url": "https://api.dinkumapi.com/images/items/scythe.png"
+  },
+  {
+    "id": 21,
+    "name": "Simple Animal Trap",
+    "description": "Catch some stuff.",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      },
+      {
+        "name": "Old Spring",
+        "amount": 1
+      },
+      {
+        "name": "Mangrove Stick",
+        "amount": 8
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Trapping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/trapping.png"
+    },
+    "sell_price": 2131,
+    "image_url": "https://api.dinkumapi.com/images/items/simple-animal-trap.png"
+  },
+  {
+    "id": 22,
+    "name": "Wooden Bat",
+    "description": "Howzat?",
+    "category": "Tools",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Hunting",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/hunting.png"
+    },
+    "sell_price": 2131,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-bat.png"
+  },
+  {
+    "id": 23,
+    "name": "Brick Bridge",
+    "description": "Maybe you could cross the water on this?",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 15
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Building",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/building.png"
+    },
+    "sell_price": 238,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-bridge.png"
+  },
+  {
+    "id": 24,
+    "name": "Brick Fence",
+    "description": "Keep things in or out.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 2
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 4,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-fence.png"
+  },
+  {
+    "id": 25,
+    "name": "Brick Fountain",
+    "description": "A nice little water feature.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 5
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 5
+      },
+      {
+        "name": "Sprinkler",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 18531,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-fountain.png"
+  },
+  {
+    "id": 26,
+    "name": "Brick Path",
+    "description": "Some bricks for the ground.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 2,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-path.png"
+  },
+  {
+    "id": 27,
+    "name": "Brick Well",
+    "description": "Water from deep down.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 10
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 5
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 5
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 1125,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-well.png"
+  },
+  {
+    "id": 28,
+    "name": "Cement Fence",
+    "description": "It's strong!",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 4
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 6,
+    "image_url": "https://api.dinkumapi.com/images/items/cement-fence.png"
+  },
+  {
+    "id": 29,
+    "name": "Cement Path",
+    "description": "Nice and sleek paths.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 2,
+    "image_url": "https://api.dinkumapi.com/images/items/cement-path.png"
+  },
+  {
+    "id": 30,
+    "name": "Cement Steps",
+    "description": "5, 6, 7, 8.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 1
+      },
+      {
+        "name": "Cement Path",
+        "amount": 1
+      }
+    ],
+    "total_produced": 4,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 4,
+    "image_url": "https://api.dinkumapi.com/images/items/cement-steps.png"
+  },
+  {
+    "id": 31,
+    "name": "Copper Top Fence",
+    "description": "Fancy fence.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 202,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-top-fence.png"
+  },
+  {
+    "id": 32,
+    "name": "Crude Fence",
+    "description": "A basic fence. Does the job.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Log",
+        "amount": 2
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 32,
+    "image_url": "https://api.dinkumapi.com/images/items/crude-fence.png"
+  },
+  {
+    "id": 33,
+    "name": "Gum Wood Bridge",
+    "description": "Maybe you could cross the water on this?",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 15
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 15
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Building",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/building.png"
+    },
+    "sell_price": 4275,
+    "image_url": "https://api.dinkumapi.com/images/items/gum-wood-bridge.png"
+  },
+  {
+    "id": 34,
+    "name": "Gum Wood Fence",
+    "description": "Wood used to separate things.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 3
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 119,
+    "image_url": "https://api.dinkumapi.com/images/items/gum-wood-fence.png"
+  },
+  {
+    "id": 35,
+    "name": "Gum Wood Gate",
+    "description": "Opens and closes.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 765,
+    "image_url": "https://api.dinkumapi.com/images/items/gum-wood-gate.png"
+  },
+  {
+    "id": 36,
+    "name": "Gum Wood Path",
+    "description": "A wooden path for walking on.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 46,
+    "image_url": "https://api.dinkumapi.com/images/items/gum-wood-path.png"
+  },
+  {
+    "id": 37,
+    "name": "Hard Wood Bridge",
+    "description": "Maybe you could cross the water on this?",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 15
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 15
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Building",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/building.png"
+    },
+    "sell_price": 6150,
+    "image_url": "https://api.dinkumapi.com/images/items/hard-wood-bridge.png"
+  },
+  {
+    "id": 38,
+    "name": "Hard Wood Fence",
+    "description": "Wood used to separate things.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 4
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 3
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 165,
+    "image_url": "https://api.dinkumapi.com/images/items/hard-wood-fence.png"
+  },
+  {
+    "id": 39,
+    "name": "Hard Wood Gate",
+    "description": "Opens and closes.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 4
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 1015,
+    "image_url": "https://api.dinkumapi.com/images/items/hard-wood-gate.png"
+  },
+  {
+    "id": 40,
+    "name": "Hard Wood Path",
+    "description": "A wooden path for walking on.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 78,
+    "image_url": "https://api.dinkumapi.com/images/items/hard-wood-path.png"
+  },
+  {
+    "id": 41,
+    "name": "Hedge",
+    "description": "A fence made from plants.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Spinifex Tuft",
+        "amount": 2
+      },
+      {
+        "name": "Fern Seed",
+        "amount": 2
+      },
+      {
+        "name": "Bush Seed",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 18,
+    "image_url": "https://api.dinkumapi.com/images/items/hedge.png"
+  },
+  {
+    "id": 42,
+    "name": "Hedge Arch",
+    "description": "Walk under it!",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Hedge",
+        "amount": 2
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 351,
+    "image_url": "https://api.dinkumapi.com/images/items/hedge-arch.png"
+  },
+  {
+    "id": 43,
+    "name": "Iron Cement Fence",
+    "description": "Very fancy.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 314,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-cement-fence.png"
+  },
+  {
+    "id": 44,
+    "name": "Iron Path",
+    "description": "It's cold.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 312,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-path.png"
+  },
+  {
+    "id": 45,
+    "name": "Palm Wood Bridge",
+    "description": "Maybe you could cross the water on this?",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 15
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 15
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Building",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/building.png"
+    },
+    "sell_price": 5681,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-bridge.png"
+  },
+  {
+    "id": 46,
+    "name": "Palm Wood Fence",
+    "description": "Wood used to separate things.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 4
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 3
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 154,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-fence.png"
+  },
+  {
+    "id": 47,
+    "name": "Palm Wood Gate",
+    "description": "Opens and closes.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 4
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 952,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-gate.png"
+  },
+  {
+    "id": 48,
+    "name": "Palm Wood Path",
+    "description": "A wooden path for walking on.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 70,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-path.png"
+  },
+  {
+    "id": 49,
+    "name": "Palm Wood Steps",
+    "description": "5, 6, 7, 8.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Nails",
+        "amount": 1
+      }
+    ],
+    "total_produced": 4,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 46,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-steps.png"
+  },
+  {
+    "id": 50,
+    "name": "Picket Fence",
+    "description": "A homely fence.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 3
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 119,
+    "image_url": "https://api.dinkumapi.com/images/items/picket-fence.png"
+  },
+  {
+    "id": 51,
+    "name": "Picket Gate",
+    "description": "Opens and closes.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 765,
+    "image_url": "https://api.dinkumapi.com/images/items/picket-gate.png"
+  },
+  {
+    "id": 52,
+    "name": "Rock Path",
+    "description": "A simple path made from rock.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 2
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 2,
+    "image_url": "https://api.dinkumapi.com/images/items/rock-path.png"
+  },
+  {
+    "id": 53,
+    "name": "Stone Steps",
+    "description": "Some bricks for the ground.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Brick Path",
+        "amount": 1
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 1
+      }
+    ],
+    "total_produced": 4,
+    "licence": {
+      "name": "Landscaping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 2,
+    "image_url": "https://api.dinkumapi.com/images/items/stone-steps.png"
+  },
+  {
+    "id": 54,
+    "name": "Tin Fence",
+    "description": "It's strong!",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Tin Sheet",
+        "amount": 4
+      }
+    ],
+    "total_produced": 8,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 171,
+    "image_url": "https://api.dinkumapi.com/images/items/tin-fence.png"
+  },
+  {
+    "id": 55,
+    "name": "Tin Gate",
+    "description": "Opens and closes.",
+    "category": "Landscaping",
+    "materials": [
+      {
+        "name": "Tin Sheet",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Landscaping",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/landscaping.png"
+    },
+    "sell_price": 688,
+    "image_url": "https://api.dinkumapi.com/images/items/tin-gate.png"
+  },
+  {
+    "id": 56,
+    "name": "Campfire",
+    "description": "A fire you can use while camping!",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Gum Log",
+        "amount": 2
+      },
+      {
+        "name": "Stone",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 288,
+    "image_url": "https://api.dinkumapi.com/images/items/campfire.png"
+  },
+  {
+    "id": 57,
+    "name": "Copper Street Lamp",
+    "description": "A nice light.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Quartz Crystal",
+        "amount": 1
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 1
+      },
+      {
+        "name": "Glass Bulb",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 2794,
+    "image_url": "https://api.dinkumapi.com/images/items/copper-street-lamp.png"
+  },
+  {
+    "id": 58,
+    "name": "Crude Furnace",
+    "description": "Can melt down Tin and Copper ore into bars.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Campfire",
+        "amount": 1
+      },
+      {
+        "name": "Stone",
+        "amount": 3
+      },
+      {
+        "name": "Tin Ore",
+        "amount": 10
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 554,
+    "image_url": "https://api.dinkumapi.com/images/items/crude-furnace.png"
+  },
+  {
+    "id": 59,
+    "name": "Festoon Lights",
+    "description": "Festive.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Bright Wire",
+        "amount": 4
+      },
+      {
+        "name": "Glass Bulb",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 10606,
+    "image_url": "https://api.dinkumapi.com/images/items/festoon-lights.png"
+  },
+  {
+    "id": 60,
+    "name": "Garden Light",
+    "description": "A lil' light.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Quartz Crystal",
+        "amount": 1
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 2
+      },
+      {
+        "name": "Glass Bulb",
+        "amount": 1
+      }
+    ],
+    "total_produced": 2,
+    "licence": null,
+    "sell_price": 1115,
+    "image_url": "https://api.dinkumapi.com/images/items/garden-light.png"
+  },
+  {
+    "id": 61,
+    "name": "Mushroom Lamp",
+    "description": "It's a fun light.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Glowing Mushroom",
+        "amount": 15
+      },
+      {
+        "name": "Quartz Crystal",
+        "amount": 2
+      },
+      {
+        "name": "Glass Bulb",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 2450,
+    "image_url": "https://api.dinkumapi.com/images/items/mushroom-lamp.png"
+  },
+  {
+    "id": 62,
+    "name": "Street Lamp",
+    "description": "A very strong lamp.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Quartz Crystal",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      },
+      {
+        "name": "Glass Bulb",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 4044,
+    "image_url": "https://api.dinkumapi.com/images/items/street-lamp.png"
+  },
+  {
+    "id": 63,
+    "name": "Tiki Torch",
+    "description": "A holiday light.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Palm Wood",
+        "amount": 1
+      },
+      {
+        "name": "Wooden Torch",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 205,
+    "image_url": "https://api.dinkumapi.com/images/items/tiki-torch.png"
+  },
+  {
+    "id": 64,
+    "name": "Wooden Lamp Post",
+    "description": "Fence post that is also a light.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Nails",
+        "amount": 1
+      },
+      {
+        "name": "Quartz Crystal",
+        "amount": 1
+      },
+      {
+        "name": "Wooden Torch",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 558,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-lamp-post.png"
+  },
+  {
+    "id": 65,
+    "name": "Wooden Torch",
+    "description": "Burns with a medium light. Will burn out by the end of the day.",
+    "category": "Lighting",
+    "materials": [
+      {
+        "name": "Mangrove Stick",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 14,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-torch.png"
+  },
+  {
+    "id": 66,
+    "name": "Advanced Sprinkler",
+    "description": "Water crops automatically. Requires Water Tank. Reaches 2 tiles out.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Sprinkler",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 5
+      },
+      {
+        "name": "Old Gear",
+        "amount": 4
+      },
+      {
+        "name": "Old Spring",
+        "amount": 4
+      },
+      {
+        "name": "Hot Cylinder",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Irrigation",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/irrigation.png"
+    },
+    "sell_price": 42244,
+    "image_url": "https://api.dinkumapi.com/images/items/advanced-sprinkler.png"
+  },
+  {
+    "id": 67,
+    "name": "Bee House",
+    "description": "Collect honey from this. Can take a week.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 4
+      },
+      {
+        "name": "Queen Bee",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 9150,
+    "image_url": "https://api.dinkumapi.com/images/items/bee-house.png"
+  },
+  {
+    "id": 68,
+    "name": "Brick Flower Bed",
+    "description": "Decorative flower bed.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 2
+      },
+      {
+        "name": "Stone",
+        "amount": 1
+      }
+    ],
+    "total_produced": 2,
+    "licence": null,
+    "sell_price": 19,
+    "image_url": "https://api.dinkumapi.com/images/items/brick-flower-bed.png"
+  },
+  {
+    "id": 69,
+    "name": "Cheese Maker",
+    "description": "Turn milk into cheese.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Milking Bucket",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      },
+      {
+        "name": "Old Gear",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 8625,
+    "image_url": "https://api.dinkumapi.com/images/items/cheese-maker.png"
+  },
+  {
+    "id": 70,
+    "name": "Compost Bin",
+    "description": "Turn poop and stuff into fertilizer.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 8
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 3
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 1
+      },
+      {
+        "name": "Nails",
+        "amount": 15
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 8056,
+    "image_url": "https://api.dinkumapi.com/images/items/compost-bin.png"
+  },
+  {
+    "id": 71,
+    "name": "Crab Pot",
+    "description": "Put in shallow water. Fill it with meat.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Copper Bar",
+        "amount": 5
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 4
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 12400,
+    "image_url": "https://api.dinkumapi.com/images/items/crab-pot.png"
+  },
+  {
+    "id": 72,
+    "name": "Flower Pot",
+    "description": "Plant flowers and other plants in it.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 38,
+    "image_url": "https://api.dinkumapi.com/images/items/flower-pot.png"
+  },
+  {
+    "id": 73,
+    "name": "Grain Mill",
+    "description": "Turns seeds and grains into other things. Windmill compatible.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 4
+      },
+      {
+        "name": "Old Gear",
+        "amount": 4
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 2
+      },
+      {
+        "name": "Old Wheel",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Farming",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/farming.png"
+    },
+    "sell_price": 7525,
+    "image_url": "https://api.dinkumapi.com/images/items/grain-mill.png"
+  },
+  {
+    "id": 74,
+    "name": "Scarecrow",
+    "description": "Stop birds from eating your crops.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Pumpkin",
+        "amount": 1
+      },
+      {
+        "name": "Gum Log",
+        "amount": 2
+      },
+      {
+        "name": "Spinifex Tuft",
+        "amount": 8
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 4250,
+    "image_url": "https://api.dinkumapi.com/images/items/scarecrow.png"
+  },
+  {
+    "id": 75,
+    "name": "Silo",
+    "description": "Automatically fill your feeders. Requires Animal Food.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Stone",
+        "amount": 25
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 15
+      },
+      {
+        "name": "Bag of Cement",
+        "amount": 10
+      },
+      {
+        "name": "Quartz Crystal",
+        "amount": 8
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 5
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 20094,
+    "image_url": "https://api.dinkumapi.com/images/items/silo.png"
+  },
+  {
+    "id": 76,
+    "name": "Spinning Wheel",
+    "description": "Turns wool into fabric.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 4
+      },
+      {
+        "name": "Old Gear",
+        "amount": 4
+      },
+      {
+        "name": "Old Wheel",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 5400,
+    "image_url": "https://api.dinkumapi.com/images/items/spinning-wheel.png"
+  },
+  {
+    "id": 77,
+    "name": "Sprinkler",
+    "description": "Waters crops automatically. Requires Water Tank. Reaches 1 tile out.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Copper Bar",
+        "amount": 5
+      },
+      {
+        "name": "Quartz Crystal",
+        "amount": 4
+      },
+      {
+        "name": "Old Spring",
+        "amount": 4
+      },
+      {
+        "name": "Old Gear",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Irrigation",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/irrigation.png"
+    },
+    "sell_price": 14725,
+    "image_url": "https://api.dinkumapi.com/images/items/sprinkler.png"
+  },
+  {
+    "id": 78,
+    "name": "Water Tank",
+    "description": "Feeds sprinklers and watering cans. Provides water to sprinklers 10 tiles out.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 15
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 15
+      },
+      {
+        "name": "Old Contraption",
+        "amount": 1
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 8
+      },
+      {
+        "name": "Nails",
+        "amount": 8
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Irrigation",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/irrigation.png"
+    },
+    "sell_price": 49486,
+    "image_url": "https://api.dinkumapi.com/images/items/water-tank.png"
+  },
+  {
+    "id": 79,
+    "name": "Wooden Flower Bed",
+    "description": "Decorative flower bed.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 1
+      }
+    ],
+    "total_produced": 2,
+    "licence": null,
+    "sell_price": 236,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-flower-bed.png"
+  },
+  {
+    "id": 80,
+    "name": "Worm Farm",
+    "description": "Creates fertilizer every now and again.",
+    "category": "Farming",
+    "materials": [
+      {
+        "name": "Roo Poo",
+        "amount": 25
+      },
+      {
+        "name": "Bone",
+        "amount": 15
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 5
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 5
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 15
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 23938,
+    "image_url": "https://api.dinkumapi.com/images/items/worm-farm.png"
+  },
+  {
+    "id": 81,
+    "name": "Animal Collection Point",
+    "description": "Dropped trapped animals inside to receive rewards.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Trapping",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/trapping.png"
+    },
+    "sell_price": 1285,
+    "image_url": "https://api.dinkumapi.com/images/items/animal-collection-point.png"
+  },
+  {
+    "id": 82,
+    "name": "Animal Den",
+    "description": "Smaller animals can live in these.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Bag of Cement",
+        "amount": 3
+      },
+      {
+        "name": "Stone",
+        "amount": 4
+      },
+      {
+        "name": "Copper Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Handling",
+      "level": 3,
+      "image_url": "https://api.dinkumapi.com/images/licences/handling.png"
+    },
+    "sell_price": 1338,
+    "image_url": "https://api.dinkumapi.com/images/items/animal-den.png"
+  },
+  {
+    "id": 83,
+    "name": "Animal Feeder",
+    "description": "Put animal food in here to feed animals.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 758,
+    "image_url": "https://api.dinkumapi.com/images/items/animal-feeder.png"
+  },
+  {
+    "id": 84,
+    "name": "Animal Stall",
+    "description": "Large animals can live in this.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Iron Bar",
+        "amount": 3
+      },
+      {
+        "name": "Spinifex Tuft",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 8
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 8
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Handling",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/handling.png"
+    },
+    "sell_price": 11492,
+    "image_url": "https://api.dinkumapi.com/images/items/animal-stall.png"
+  },
+  {
+    "id": 85,
+    "name": "Bird Coop",
+    "description": "Birds can live in this.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Copper Bar",
+        "amount": 4
+      },
+      {
+        "name": "Spinifex Tuft",
+        "amount": 4
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 2
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 3
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Handling",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/handling.png"
+    },
+    "sell_price": 6690,
+    "image_url": "https://api.dinkumapi.com/images/items/bird-coop.png"
+  },
+  {
+    "id": 86,
+    "name": "Cooking Table",
+    "description": "A place to prepare meals.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Nails",
+        "amount": 2
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      },
+      {
+        "name": "Tin Sheet",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 2570,
+    "image_url": "https://api.dinkumapi.com/images/items/cooking-table.png"
+  },
+  {
+    "id": 87,
+    "name": "Crafting Table",
+    "description": "Craft stuff here.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 3
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      },
+      {
+        "name": "Nails",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 1480,
+    "image_url": "https://api.dinkumapi.com/images/items/crafting-table.png"
+  },
+  {
+    "id": 88,
+    "name": "Dog Kennel",
+    "description": "A house for a pupper.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Copper Bar",
+        "amount": 1
+      },
+      {
+        "name": "Spinifex Resin",
+        "amount": 2
+      },
+      {
+        "name": "Hard Wood Plank",
+        "amount": 3
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 3
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 2775,
+    "image_url": "https://api.dinkumapi.com/images/items/dog-kennel.png"
+  },
+  {
+    "id": 89,
+    "name": "Gum Wood Bench",
+    "description": "Sit down outside why don't ya.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 1328,
+    "image_url": "https://api.dinkumapi.com/images/items/gum-wood-bench.png"
+  },
+  {
+    "id": 90,
+    "name": "Hard Wood Bench",
+    "description": "Sit down outside why don't ya.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 1952,
+    "image_url": "https://api.dinkumapi.com/images/items/hard-wood-bench.png"
+  },
+  {
+    "id": 91,
+    "name": "Iron Wood Bench",
+    "description": "Sit down outside why don't ya.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 6406,
+    "image_url": "https://api.dinkumapi.com/images/items/iron-wood-bench.png"
+  },
+  {
+    "id": 92,
+    "name": "Keg",
+    "description": "Leave stuff in there for way too long.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Logging",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/logging.png"
+    },
+    "sell_price": 3906,
+    "image_url": "https://api.dinkumapi.com/images/items/keg.png"
+  },
+  {
+    "id": 93,
+    "name": "Palm Wood Bench",
+    "description": "Sit down outside why don't ya.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 1796,
+    "image_url": "https://api.dinkumapi.com/images/items/palm-wood-bench.png"
+  },
+  {
+    "id": 94,
+    "name": "Recycling Bin",
+    "description": "Place unwanted items in this. Or check it for items you want.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 656,
+    "image_url": "https://api.dinkumapi.com/images/items/recycling-bin.png"
+  },
+  {
+    "id": 95,
+    "name": "Storage Barrel",
+    "description": "Store things in here if you like.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 5
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 4281,
+    "image_url": "https://api.dinkumapi.com/images/items/storage-barrel.png"
+  },
+  {
+    "id": 96,
+    "name": "Windmill",
+    "description": "Speeds up nearby furnaces, crushers and BBQs.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Tin Sheet",
+        "amount": 20
+      },
+      {
+        "name": "Old Gear",
+        "amount": 5
+      },
+      {
+        "name": "Old Spring",
+        "amount": 5
+      },
+      {
+        "name": "Iron Bar",
+        "amount": 5
+      },
+      {
+        "name": "Old Wheel",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Building",
+      "level": 2,
+      "image_url": "https://api.dinkumapi.com/images/licences/building.png"
+    },
+    "sell_price": 32019,
+    "image_url": "https://api.dinkumapi.com/images/items/windmill.png"
+  },
+  {
+    "id": 97,
+    "name": "Wooden Crate",
+    "description": "Store things in here if you like.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Palm Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 1
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 754,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-crate.png"
+  },
+  {
+    "id": 98,
+    "name": "Wooden Sign",
+    "description": "Show an item off.",
+    "category": "Home",
+    "materials": [
+      {
+        "name": "Hard Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Gum Wood Plank",
+        "amount": 1
+      },
+      {
+        "name": "Mangrove Stick",
+        "amount": 1
+      },
+      {
+        "name": "Nails",
+        "amount": 2
+      }
+    ],
+    "total_produced": 1,
+    "licence": null,
+    "sell_price": 808,
+    "image_url": "https://api.dinkumapi.com/images/items/wooden-sign.png"
+  },
+  {
+    "id": 99,
+    "name": "Nails",
+    "description": "Used to nail things together.",
+    "category": "Miscellaneous",
+    "materials": [
+      {
+        "name": "Tin Bar",
+        "amount": 1
+      }
+    ],
+    "total_produced": 8,
+    "licence": null,
+    "sell_price": 78,
+    "image_url": "https://api.dinkumapi.com/images/items/nails.png"
+  },
+  {
+    "id": 100,
+    "name": "Rowboat",
+    "description": "A human powered boat.",
+    "category": "Miscellaneous",
+    "materials": [
+      {
+        "name": "Gum Wood Plank",
+        "amount": 10
+      },
+      {
+        "name": "Palm Wood Plank",
+        "amount": 10
+      },
+      {
+        "name": "Tin Bar",
+        "amount": 2
+      },
+      {
+        "name": "Nails",
+        "amount": 4
+      }
+    ],
+    "total_produced": 1,
+    "licence": {
+      "name": "Vehicle",
+      "level": 1,
+      "image_url": "https://api.dinkumapi.com/images/licences/vehicle.png"
+    },
+    "sell_price": 6328,
+    "image_url": "https://api.dinkumapi.com/images/items/rowboat.png"
+  }
+]
