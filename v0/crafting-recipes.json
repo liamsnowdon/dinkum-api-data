@@ -7,15 +7,18 @@
     "materials": [
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Old Spring",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/old-spring.png"
       }
     ],
     "total_produced": 1,
@@ -35,11 +38,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       }
     ],
     "total_produced": 1,
@@ -59,11 +64,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       }
     ],
     "total_produced": 1,
@@ -83,11 +90,13 @@
     "materials": [
       {
         "name": "Basic Axe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/basic-axe.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -107,11 +116,13 @@
     "materials": [
       {
         "name": "Fishing Rod",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/fishing-rod.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -131,11 +142,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -155,11 +168,13 @@
     "materials": [
       {
         "name": "Hoe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/hoe.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -179,11 +194,13 @@
     "materials": [
       {
         "name": "Basic Pickaxe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/basic-pickaxe.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -203,11 +220,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -227,11 +246,13 @@
     "materials": [
       {
         "name": "Basic Watering Can",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/basic-watering-can.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -251,19 +272,23 @@
     "materials": [
       {
         "name": "Cooper Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       },
       {
         "name": "Crocodile Tooth",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/crocodile-tooth.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -283,19 +308,23 @@
     "materials": [
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       },
       {
         "name": "Flame Sac",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/flame-sac.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -315,11 +344,13 @@
     "materials": [
       {
         "name": "Copper Axe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-axe.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -339,11 +370,13 @@
     "materials": [
       {
         "name": "Copper Fishing Rod",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-fishing-rod.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -363,11 +396,13 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -387,11 +422,13 @@
     "materials": [
       {
         "name": "Copper Hoe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-hoe.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -411,11 +448,13 @@
     "materials": [
       {
         "name": "Copper Pickaxe",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-pickaxe.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -435,11 +474,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -459,11 +500,13 @@
     "materials": [
       {
         "name": "Copper Watering Can",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-watering-can.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -483,11 +526,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       }
     ],
     "total_produced": 1,
@@ -507,15 +552,18 @@
     "materials": [
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       },
       {
         "name": "Old Spring",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/old-spring.png"
       },
       {
         "name": "Mangrove Stick",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/mangrove-stick.png"
       }
     ],
     "total_produced": 1,
@@ -535,11 +583,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       }
     ],
     "total_produced": 1,
@@ -559,11 +609,13 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 1,
@@ -583,11 +635,13 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 8,
@@ -607,15 +661,18 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Sprinkler",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/sprinkler.png"
       }
     ],
     "total_produced": 1,
@@ -631,7 +688,8 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       }
     ],
     "total_produced": 8,
@@ -651,15 +709,18 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 10
+        "amount": 10,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -675,7 +736,8 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 8,
@@ -695,7 +757,8 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 8,
@@ -715,11 +778,13 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Cement Path",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/cement-path.png"
       }
     ],
     "total_produced": 4,
@@ -739,11 +804,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 8,
@@ -759,11 +826,13 @@
     "materials": [
       {
         "name": "Gum Log",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-log.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       }
     ],
     "total_produced": 8,
@@ -779,11 +848,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -803,11 +874,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 8,
@@ -827,11 +900,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -851,7 +926,8 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       }
     ],
     "total_produced": 8,
@@ -871,11 +947,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -895,11 +973,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 8,
@@ -919,11 +999,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -943,7 +1025,8 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-gate.png"
       }
     ],
     "total_produced": 8,
@@ -963,15 +1046,18 @@
     "materials": [
       {
         "name": "Spinifex Tuft",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-tuft.png"
       },
       {
         "name": "Fern Seed",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/fern-seed.png"
       },
       {
         "name": "Bush Seed",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/bush-seed.png"
       }
     ],
     "total_produced": 8,
@@ -987,15 +1073,18 @@
     "materials": [
       {
         "name": "Hedge",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hedge.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       }
     ],
     "total_produced": 1,
@@ -1011,11 +1100,13 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 8,
@@ -1031,7 +1122,8 @@
     "materials": [
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 8,
@@ -1047,11 +1139,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -1071,11 +1165,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       }
     ],
     "total_produced": 8,
@@ -1095,11 +1191,13 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -1119,7 +1217,8 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       }
     ],
     "total_produced": 8,
@@ -1139,11 +1238,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 4,
@@ -1163,11 +1264,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 8,
@@ -1183,11 +1286,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -1203,7 +1308,8 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       }
     ],
     "total_produced": 8,
@@ -1219,11 +1325,13 @@
     "materials": [
       {
         "name": "Brick Path",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/brick-path.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 4,
@@ -1243,7 +1351,8 @@
     "materials": [
       {
         "name": "Tin Sheet",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       }
     ],
     "total_produced": 8,
@@ -1263,7 +1372,8 @@
     "materials": [
       {
         "name": "Tin Sheet",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       }
     ],
     "total_produced": 1,
@@ -1283,11 +1393,13 @@
     "materials": [
       {
         "name": "Gum Log",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-log.png"
       },
       {
         "name": "Stone",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       }
     ],
     "total_produced": 1,
@@ -1303,15 +1415,18 @@
     "materials": [
       {
         "name": "Quartz Crystal",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Glass Bulb",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/glass-bulb.png"
       }
     ],
     "total_produced": 1,
@@ -1327,15 +1442,18 @@
     "materials": [
       {
         "name": "Campfire",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/campfire.png"
       },
       {
         "name": "Stone",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Tin Ore",
-        "amount": 10
+        "amount": 10,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-ore.png"
       }
     ],
     "total_produced": 1,
@@ -1351,15 +1469,18 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Bright Wire",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/bright-wire.png"
       },
       {
         "name": "Glass Bulb",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/glass-bulb.png"
       }
     ],
     "total_produced": 1,
@@ -1375,15 +1496,18 @@
     "materials": [
       {
         "name": "Quartz Crystal",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Glass Bulb",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/glass-bulb.png"
       }
     ],
     "total_produced": 2,
@@ -1399,15 +1523,18 @@
     "materials": [
       {
         "name": "Glowing Mushroom",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/glowing-mushroom.png"
       },
       {
         "name": "Quartz Crystal",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Glass Bulb",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/glass-bulb.png"
       }
     ],
     "total_produced": 1,
@@ -1423,15 +1550,18 @@
     "materials": [
       {
         "name": "Quartz Crystal",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Glass Bulb",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/glass-bulb.png"
       }
     ],
     "total_produced": 1,
@@ -1447,11 +1577,13 @@
     "materials": [
       {
         "name": "Palm Wood",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood.png"
       },
       {
         "name": "Wooden Torch",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/wooden-torch.png"
       }
     ],
     "total_produced": 1,
@@ -1467,15 +1599,18 @@
     "materials": [
       {
         "name": "Nails",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Quartz Crystal",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Wooden Torch",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/wooden-torch.png"
       }
     ],
     "total_produced": 1,
@@ -1491,7 +1626,8 @@
     "materials": [
       {
         "name": "Mangrove Stick",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/mangrove-stick.png"
       }
     ],
     "total_produced": 8,
@@ -1507,23 +1643,28 @@
     "materials": [
       {
         "name": "Sprinkler",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/sprinkler.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Old Gear",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       },
       {
         "name": "Old Spring",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-spring.png"
       },
       {
         "name": "Hot Cylinder",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/hot-cylinder.png"
       }
     ],
     "total_produced": 1,
@@ -1543,19 +1684,23 @@
     "materials": [
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Queen Bee",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/queen-bee.png"
       }
     ],
     "total_produced": 1,
@@ -1571,11 +1716,13 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Stone",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       }
     ],
     "total_produced": 2,
@@ -1591,15 +1738,18 @@
     "materials": [
       {
         "name": "Milking Bucket",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/milking-bucket.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Old Gear",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       }
     ],
     "total_produced": 1,
@@ -1615,19 +1765,23 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Nails",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -1643,19 +1797,23 @@
     "materials": [
       {
         "name": "Copper Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       }
     ],
     "total_produced": 1,
@@ -1671,7 +1829,8 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       }
     ],
     "total_produced": 1,
@@ -1687,19 +1846,23 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Old Gear",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Old Wheel",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/old-wheel.png"
       }
     ],
     "total_produced": 1,
@@ -1719,15 +1882,18 @@
     "materials": [
       {
         "name": "Pumpkin",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/pumpkin.png"
       },
       {
         "name": "Gum Log",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-log.png"
       },
       {
         "name": "Spinifex Tuft",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-tuft.png"
       }
     ],
     "total_produced": 1,
@@ -1743,23 +1909,28 @@
     "materials": [
       {
         "name": "Stone",
-        "amount": 25
+        "amount": 25,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Bag of Cement",
-        "amount": 10
+        "amount": 10,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Quartz Crystal",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -1775,15 +1946,18 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Old Gear",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       },
       {
         "name": "Old Wheel",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/old-wheel.png"
       }
     ],
     "total_produced": 1,
@@ -1799,19 +1973,23 @@
     "materials": [
       {
         "name": "Copper Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Quartz Crystal",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/quartz-crystal.png"
       },
       {
         "name": "Old Spring",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-spring.png"
       },
       {
         "name": "Old Gear",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       }
     ],
     "total_produced": 1,
@@ -1831,23 +2009,28 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Old Contraption",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/old-contraption.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Nails",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -1867,11 +2050,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 2,
@@ -1887,23 +2072,28 @@
     "materials": [
       {
         "name": "Roo Poo",
-        "amount": 25
+        "amount": 25,
+        "image_url": "https://api.dinkumapi.com/images/items/roo-poo.png"
       },
       {
         "name": "Bone",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/bone.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 15
+        "amount": 15,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -1919,15 +2109,18 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -1947,15 +2140,18 @@
     "materials": [
       {
         "name": "Bag of Cement",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/bag-of-cement.png"
       },
       {
         "name": "Stone",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/stone.png"
       },
       {
         "name": "Copper Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       }
     ],
     "total_produced": 1,
@@ -1975,11 +2171,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -1995,23 +2193,28 @@
     "materials": [
       {
         "name": "Iron Bar",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Spinifex Tuft",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-tuft.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Nails",
-        "amount": 8
+        "amount": 8,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2031,23 +2234,28 @@
     "materials": [
       {
         "name": "Copper Bar",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Spinifex Tuft",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-tuft.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2067,19 +2275,23 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       },
       {
         "name": "Tin Sheet",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       }
     ],
     "total_produced": 1,
@@ -2095,15 +2307,18 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       },
       {
         "name": "Nails",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2119,19 +2334,23 @@
     "materials": [
       {
         "name": "Copper Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/copper-bar.png"
       },
       {
         "name": "Spinifex Resin",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/spinifex-resin.png"
       },
       {
         "name": "Hard Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 3
+        "amount": 3,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -2147,11 +2366,13 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2167,11 +2388,13 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2187,11 +2410,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -2207,11 +2432,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -2231,11 +2458,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2251,11 +2480,13 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       }
     ],
     "total_produced": 1,
@@ -2271,15 +2502,18 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-bench.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       }
     ],
     "total_produced": 1,
@@ -2295,23 +2529,28 @@
     "materials": [
       {
         "name": "Tin Sheet",
-        "amount": 20
+        "amount": 20,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-sheet.png"
       },
       {
         "name": "Old Gear",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/old-gear.png"
       },
       {
         "name": "Old Spring",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/old-spring.png"
       },
       {
         "name": "Iron Bar",
-        "amount": 5
+        "amount": 5,
+        "image_url": "https://api.dinkumapi.com/images/items/iron-bar.png"
       },
       {
         "name": "Old Wheel",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/old-wheel.png"
       }
     ],
     "total_produced": 1,
@@ -2331,15 +2570,18 @@
     "materials": [
       {
         "name": "Palm Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Nails",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2355,19 +2597,23 @@
     "materials": [
       {
         "name": "Hard Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/hard-wood-plank.png"
       },
       {
         "name": "Gum Wood Plank",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Mangrove Stick",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/mangrove-stick.png"
       },
       {
         "name": "Nails",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
@@ -2383,7 +2629,8 @@
     "materials": [
       {
         "name": "Tin Bar",
-        "amount": 1
+        "amount": 1,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       }
     ],
     "total_produced": 8,
@@ -2399,19 +2646,23 @@
     "materials": [
       {
         "name": "Gum Wood Plank",
-        "amount": 10
+        "amount": 10,
+        "image_url": "https://api.dinkumapi.com/images/items/gum-wood-plank.png"
       },
       {
         "name": "Palm Wood Plank",
-        "amount": 10
+        "amount": 10,
+        "image_url": "https://api.dinkumapi.com/images/items/palm-wood-plank.png"
       },
       {
         "name": "Tin Bar",
-        "amount": 2
+        "amount": 2,
+        "image_url": "https://api.dinkumapi.com/images/items/tin-bar.png"
       },
       {
         "name": "Nails",
-        "amount": 4
+        "amount": 4,
+        "image_url": "https://api.dinkumapi.com/images/items/nails.png"
       }
     ],
     "total_produced": 1,
