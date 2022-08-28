@@ -24,7 +24,7 @@
       }
     ],
     "sell_price": 6300,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/bread.png"
+    "image_url": "https://api.dinkumapi.com/images/items/bread.png"
   },
   {
     "id": 2,
@@ -63,7 +63,7 @@
       }
     ],
     "sell_price": 1060,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/dagwood-dog.png"
+    "image_url": "https://api.dinkumapi.com/images/items/dagwood-dog.png"
   },
   {
     "id": 3,
@@ -94,7 +94,7 @@
       }
     ],
     "sell_price": 3975,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/damper.png"
+    "image_url": "https://api.dinkumapi.com/images/items/damper.png"
   },
   {
     "id": 4,
@@ -121,7 +121,7 @@
       }
     ],
     "sell_price": 2569,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fairy-bread.png"
+    "image_url": "https://api.dinkumapi.com/images/items/fairy-bread.png"
   },
   {
     "id": 5,
@@ -156,7 +156,7 @@
       }
     ],
     "sell_price": 2900,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fish-and-chips.png"
+    "image_url": "https://api.dinkumapi.com/images/items/fish-and-chips.png"
   },
   {
     "id": 6,
@@ -195,7 +195,7 @@
       }
     ],
     "sell_price": 1388,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/fruit-salad.png"
+    "image_url": "https://api.dinkumapi.com/images/items/fruit-salad.png"
   },
   {
     "id": 7,
@@ -230,7 +230,7 @@
       }
     ],
     "sell_price": 3189,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/garden-salad.png"
+    "image_url": "https://api.dinkumapi.com/images/items/garden-salad.png"
   },
   {
     "id": 8,
@@ -273,7 +273,7 @@
       }
     ],
     "sell_price": 2456,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/hearty-stew.png"
+    "image_url": "https://api.dinkumapi.com/images/items/hearty-stew.png"
   },
   {
     "id": 9,
@@ -324,7 +324,7 @@
       }
     ],
     "sell_price": 5939,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/lamington.png"
+    "image_url": "https://api.dinkumapi.com/images/items/lamington.png"
   },
   {
     "id": 10,
@@ -355,7 +355,7 @@
       }
     ],
     "sell_price": 1612,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/meat-on-a-stick.png"
+    "image_url": "https://api.dinkumapi.com/images/items/meat-on-a-stick.png"
   },
   {
     "id": 11,
@@ -390,7 +390,7 @@
       }
     ],
     "sell_price": 3038,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/meat-pie.png"
+    "image_url": "https://api.dinkumapi.com/images/items/meat-pie.png"
   },
   {
     "id": 12,
@@ -429,7 +429,7 @@
       }
     ],
     "sell_price": 5681,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/pastie.png"
+    "image_url": "https://api.dinkumapi.com/images/items/pastie.png"
   },
   {
     "id": 13,
@@ -464,7 +464,7 @@
       }
     ],
     "sell_price": 6860,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/pavlova.png"
+    "image_url": "https://api.dinkumapi.com/images/items/pavlova.png"
   },
   {
     "id": 14,
@@ -515,7 +515,7 @@
       }
     ],
     "sell_price": 12994,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/prime-roast.png"
+    "image_url": "https://api.dinkumapi.com/images/items/prime-roast.png"
   },
   {
     "id": 15,
@@ -554,7 +554,7 @@
       }
     ],
     "sell_price": 5538,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/quiche.png"
+    "image_url": "https://api.dinkumapi.com/images/items/quiche.png"
   },
   {
     "id": 16,
@@ -601,6 +601,6 @@
       }
     ],
     "sell_price": 3600,
-    "image_url": "https://api.dinkumapi.com/images/recipes/cooking/sausage-roll.png"
+    "image_url": "https://api.dinkumapi.com/images/items/sausage-roll.png"
   }
 ]

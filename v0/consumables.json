@@ -11,7 +11,7 @@
       }
     ],
     "sell_price": 107,
-    "image_url": "https://api.dinkumapi.com/images/consumables/apple.png"
+    "image_url": "https://api.dinkumapi.com/images/items/apple.png"
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       }
     ],
     "sell_price": 248,
-    "image_url": "https://api.dinkumapi.com/images/consumables/bananas.png"
+    "image_url": "https://api.dinkumapi.com/images/items/bananas.png"
   },
   {
     "id": 3,
@@ -43,7 +43,7 @@
       }
     ],
     "sell_price": 90,
-    "image_url": "https://api.dinkumapi.com/images/consumables/bush-lime.png"
+    "image_url": "https://api.dinkumapi.com/images/items/bush-lime.png"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
       }
     ],
     "sell_price": 100,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cactus-figs.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cactus-figs.png"
   },
   {
     "id": 5,
@@ -75,7 +75,7 @@
       }
     ],
     "sell_price": 350,
-    "image_url": "https://api.dinkumapi.com/images/consumables/chicken-egg.png"
+    "image_url": "https://api.dinkumapi.com/images/items/chicken-egg.png"
   },
   {
     "id": 6,
@@ -89,7 +89,7 @@
       }
     ],
     "sell_price": 500,
-    "image_url": "https://api.dinkumapi.com/images/consumables/big-chicken-egg.png"
+    "image_url": "https://api.dinkumapi.com/images/items/big-chicken-egg.png"
   },
   {
     "id": 7,
@@ -98,7 +98,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 625,
-    "image_url": "https://api.dinkumapi.com/images/consumables/croco-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/croco-meat.png"
   },
   {
     "id": 8,
@@ -107,7 +107,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 950,
-    "image_url": "https://api.dinkumapi.com/images/consumables/flake.png"
+    "image_url": "https://api.dinkumapi.com/images/items/flake.png"
   },
   {
     "id": 9,
@@ -116,7 +116,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 400,
-    "image_url": "https://api.dinkumapi.com/images/consumables/jelly.png"
+    "image_url": "https://api.dinkumapi.com/images/items/jelly.png"
   },
   {
     "id": 10,
@@ -125,7 +125,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 400,
-    "image_url": "https://api.dinkumapi.com/images/consumables/raw-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/raw-meat.png"
   },
   {
     "id": 11,
@@ -143,7 +143,7 @@
       }
     ],
     "sell_price": 110,
-    "image_url": "https://api.dinkumapi.com/images/consumables/quandong.png"
+    "image_url": "https://api.dinkumapi.com/images/items/quandong.png"
   },
   {
     "id": 12,
@@ -152,7 +152,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 350,
-    "image_url": "https://api.dinkumapi.com/images/consumables/raw-drumstick.png"
+    "image_url": "https://api.dinkumapi.com/images/items/raw-drumstick.png"
   },
   {
     "id": 13,
@@ -161,7 +161,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 500,
-    "image_url": "https://api.dinkumapi.com/images/consumables/raw-giant-drumstick.png"
+    "image_url": "https://api.dinkumapi.com/images/items/raw-giant-drumstick.png"
   },
   {
     "id": 14,
@@ -170,7 +170,7 @@
     "category": "Raw",
     "effects": [],
     "sell_price": 2000,
-    "image_url": "https://api.dinkumapi.com/images/consumables/raw-prime-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/raw-prime-meat.png"
   },
   {
     "id": 15,
@@ -184,7 +184,7 @@
       }
     ],
     "sell_price": 390,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-apple.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-apple.png"
   },
   {
     "id": 16,
@@ -198,7 +198,7 @@
       }
     ],
     "sell_price": 290,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-banana.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-banana.png"
   },
   {
     "id": 17,
@@ -216,7 +216,7 @@
       }
     ],
     "sell_price": 190,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-bush-lime.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-bush-lime.png"
   },
   {
     "id": 18,
@@ -230,7 +230,7 @@
       }
     ],
     "sell_price": 250,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-cactus-fig.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-cactus-fig.png"
   },
   {
     "id": 19,
@@ -244,7 +244,7 @@
       }
     ],
     "sell_price": 525,
-    "image_url": "https://api.dinkumapi.com/images/consumables/fried-egg.png"
+    "image_url": "https://api.dinkumapi.com/images/items/fried-egg.png"
   },
   {
     "id": 20,
@@ -258,7 +258,7 @@
       }
     ],
     "sell_price": 817,
-    "image_url": "https://api.dinkumapi.com/images/consumables/big-fried-egg.png"
+    "image_url": "https://api.dinkumapi.com/images/items/big-fried-egg.png"
   },
   {
     "id": 21,
@@ -276,7 +276,7 @@
       }
     ],
     "sell_price": 1750,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-croco-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-croco-meat.png"
   },
   {
     "id": 22,
@@ -294,7 +294,7 @@
       }
     ],
     "sell_price": 1900,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-flake.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-flake.png"
   },
   {
     "id": 23,
@@ -312,7 +312,7 @@
       }
     ],
     "sell_price": 700,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-drumstick.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-drumstick.png"
   },
   {
     "id": 24,
@@ -330,7 +330,7 @@
       }
     ],
     "sell_price": 1500,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-giant-drumstick.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-giant-drumstick.png"
   },
   {
     "id": 25,
@@ -348,7 +348,7 @@
       }
     ],
     "sell_price": 800,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-meat.png"
   },
   {
     "id": 26,
@@ -366,7 +366,7 @@
       }
     ],
     "sell_price": 6000,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-prime-meat.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-prime-meat.png"
   },
   {
     "id": 27,
@@ -384,7 +384,7 @@
       }
     ],
     "sell_price": 220,
-    "image_url": "https://api.dinkumapi.com/images/consumables/cooked-quandong.png"
+    "image_url": "https://api.dinkumapi.com/images/items/cooked-quandong.png"
   },
   {
     "id": 28,
@@ -406,7 +406,7 @@
       }
     ],
     "sell_price": 4624,
-    "image_url": "https://api.dinkumapi.com/images/consumables/wattle-brew.png"
+    "image_url": "https://api.dinkumapi.com/images/items/wattle-brew.png"
   },
   {
     "id": 29,
@@ -424,7 +424,7 @@
       }
     ],
     "sell_price": 4624,
-    "image_url": "https://api.dinkumapi.com/images/consumables/bottled-brush.png"
+    "image_url": "https://api.dinkumapi.com/images/items/bottled-brush.png"
   },
   {
     "id": 30,
@@ -450,6 +450,6 @@
       }
     ],
     "sell_price": 5000,
-    "image_url": "https://api.dinkumapi.com/images/consumables/jelly-brush.png"
+    "image_url": "https://api.dinkumapi.com/images/items/jelly-brush.png"
   }
 ]
