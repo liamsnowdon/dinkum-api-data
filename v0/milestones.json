@@ -1,0 +1,2166 @@
+[
+  {
+    "id": 1,
+    "name": "Amber Cash",
+    "description": "Here is a milestone for selling amber.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 250
+      },
+      {
+        "count": 10,
+        "permit_points": 250
+      },
+      {
+        "count": 20,
+        "permit_points": 250
+      },
+      {
+        "count": 50,
+        "permit_points": 250
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/amber-cash.png"
+  },
+  {
+    "id": 2,
+    "name": "Animal Handler",
+    "description": "Giving an animal a new home is a great thing. Here is a milestone for buying a new animal friend.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 5,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/animal-handler.png"
+  },
+  {
+    "id": 3,
+    "name": "Archaeologist",
+    "description": "There is stuff everywhere underground. Here is a milestone for digging up treasure.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/archaeologist.png"
+  },
+  {
+    "id": 4,
+    "name": "Bee Keeper",
+    "description": "Keeping your bees happy and they will give you a little honey. Here is a milestone for collecting honey.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      },
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 20,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/bee-keeper.png"
+  },
+  {
+    "id": 5,
+    "name": "Board As",
+    "description": "You always go out of your way to help people who have posted on the bulletin board. Here is a milestone for completing tasks from the bulletin board.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 200,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/board-as.png"
+  },
+  {
+    "id": 6,
+    "name": "Brewmatic",
+    "description": "Those flowers might be nice if I put them in a barrel and let them sit. Here is a milestone for brewing in a keg.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/brewmatic.png"
+  },
+  {
+    "id": 7,
+    "name": "Bucket Head",
+    "description": "A bucket on your head! You bloody galah. You're having a laugh. Here is a milestone for rockin' a bucket on your head.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 250
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/bucket-head.png"
+  },
+  {
+    "id": 8,
+    "name": "Bug Catcher",
+    "description": "Catching bugs is a great activity. Here is a milestone for catching some of those creepy crawlies.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/bug-catcher.png"
+  },
+  {
+    "id": 9,
+    "name": "Camper",
+    "description": "A place to rest your head - Your new home for now. Here is a milestone for placing your tent.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/camper.png"
+  },
+  {
+    "id": 10,
+    "name": "Chatterbox",
+    "description": "Being friendly and making friends is an adventure on it's own! Be sure to chat with everyone every day! You might learn something.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/chatterbox.png"
+  },
+  {
+    "id": 11,
+    "name": "Chopper Master",
+    "description": "A helicopter? It flies? Here is a milestone for flying like a bird.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 250,
+        "permit_points": 200
+      },
+      {
+        "count": 500,
+        "permit_points": 200
+      },
+      {
+        "count": 1000,
+        "permit_points": 200
+      },
+      {
+        "count": 5000,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/chopper-master.png"
+  },
+  {
+    "id": 12,
+    "name": "Composter",
+    "description": "Plants love old stinky stuff. Poop. Bones. They love it all. Here is a milestone for using the composter.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/composter.png"
+  },
+  {
+    "id": 13,
+    "name": "Cordon Bleu",
+    "description": "Mixing things all together to make something? You're a bloody chef, I'll tell you what. Here is a milestone for cooking at the cooking table.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/cordon-bleu.png"
+  },
+  {
+    "id": 14,
+    "name": "Crab Catcher",
+    "description": "Crab pots don't always catch crabs, but when they do, it's crab night! Here is a milestone for catching something in your crab pot.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 200,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/crab-catcher.png"
+  },
+  {
+    "id": 15,
+    "name": "Crafting Crazy",
+    "description": "Crafting useful things yourself is a handy skill in a place starting off with nothing. Here is a milestone for crafting items.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/crafting-crazy.png"
+  },
+  {
+    "id": 16,
+    "name": "Creepy Dink",
+    "description": "Bugs are everywhere. For some reason, John wants them. Here is a milestone for selling bugs.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/creepy-dink.png"
+  },
+  {
+    "id": 17,
+    "name": "Crop Taker",
+    "description": "Reap what you have sewn. Here is a milestone for harvesting crops.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/crop-taker.png"
+  },
+  {
+    "id": 18,
+    "name": "Dairy Good",
+    "description": "Here is a milestone for milking Vombats.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/dairy-good.png"
+  },
+  {
+    "id": 19,
+    "name": "Damage Sponge",
+    "description": "You sure can take a hit or two. Here is a milestone for taking damage.",
+    "levels": [
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      },
+      {
+        "count": 500,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/damage-sponge.png"
+  },
+  {
+    "id": 20,
+    "name": "Deep Miner",
+    "description": "Deep down in the shifting mines, it's dangerous... but you've been there a bunch! Here is a milestone for entering the mines.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 200,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/deep-miner.png"
+  },
+  {
+    "id": 21,
+    "name": "Egg Thief",
+    "description": "Milestone for selling Wary Mu eggs.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/egg-thief.png"
+  },
+  {
+    "id": 22,
+    "name": "Eggcellent",
+    "description": "They crack easy, but they sell for a bit! Here is a milestone for selling eggs.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/eggcellent.png"
+  },
+  {
+    "id": 23,
+    "name": "Entomologist",
+    "description": "You make sure you document all the different bugs you've caught. Here is a milestone for adding a new species of bugs to your Pedia.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 100
+      },
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 20,
+        "permit_points": 100
+      },
+      {
+        "count": 25,
+        "permit_points": 100
+      },
+      {
+        "count": 35,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/entomologist.png"
+  },
+  {
+    "id": 24,
+    "name": "Entrepreneur",
+    "description": "Nothing wrong with making a bit of a profit. Here is a milestone selling stuff for money.",
+    "levels": [
+      {
+        "count": 10000,
+        "permit_points": 250
+      },
+      {
+        "count": 50000,
+        "permit_points": 250
+      },
+      {
+        "count": 100000,
+        "permit_points": 250
+      },
+      {
+        "count": 500000,
+        "permit_points": 250
+      },
+      {
+        "count": 1500000,
+        "permit_points": 250
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/entrepreneur.png"
+  },
+  {
+    "id": 25,
+    "name": "Equipped",
+    "description": "You can buy a lot of useful tools to help you! Here is a milestone for buying tools.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 500,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/equipped.png"
+  },
+  {
+    "id": 26,
+    "name": "Everything Hunter",
+    "description": "Hunting is sometimes necessary. Here is milestone for hunting creature",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/everything-hunter.png"
+  },
+  {
+    "id": 27,
+    "name": "Explorer",
+    "description": "Every adventure starts somewhere and yours starts here. Here is a milestone for placing the base tent.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/explorer.png"
+  },
+  {
+    "id": 28,
+    "name": "Farm Feeder",
+    "description": "You feed them every day so they will love you. Here is a milestone for feeding your animals.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/farm-feeder.png"
+  },
+  {
+    "id": 29,
+    "name": "Farmers Market",
+    "description": "Farming has paid off. You've reaped what you have sown. Here is a milestone for selling plants.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/farmers-market.png"
+  },
+  {
+    "id": 30,
+    "name": "Filthy Dinkin' Rich",
+    "description": "Saving money in the bank. Clever. Here is a milestone for having a cold hard Mil.",
+    "levels": [
+      {
+        "count": 1000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 2000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 3000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 4000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 5000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 6000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 7000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 8000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 9000000,
+        "permit_points": 3000
+      },
+      {
+        "count": 10000000,
+        "permit_points": 3000
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/filthy-dinkin-rich.png"
+  },
+  {
+    "id": 31,
+    "name": "Fish Catcher",
+    "description": "You've caught a bunch of fish. Here is a milestone for catching a bunch of fish!",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/fish-catcher.png"
+  },
+  {
+    "id": 32,
+    "name": "Fishmonger",
+    "description": "What are fish doing in the ocean when they could be put to good use lining your pockets. Here is a milestone for selling fish.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/fishmonger.png"
+  },
+  {
+    "id": 33,
+    "name": "Floor Change",
+    "description": "Here is a milestone for buying flooring.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/floor-change.png"
+  },
+  {
+    "id": 34,
+    "name": "Forest Maker",
+    "description": "Always replace what you've taken. Here is a milestone for planting tree seeds.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/forest-maker.png"
+  },
+  {
+    "id": 35,
+    "name": "Fossil Finder",
+    "description": "Milestone for selling fossils.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/fossil-finder.png"
+  },
+  {
+    "id": 36,
+    "name": "Fruit Buried",
+    "description": "Bury fruit and get a fruit tree! You beauty! Here is a milestone for burying fruit.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/fruit-buried.png"
+  },
+  {
+    "id": 37,
+    "name": "Furniture Fancy",
+    "description": "Buying furniture for your home? Maybe a gift? Here is a milestone for buying furniture.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/furniture-fancy.png"
+  },
+  {
+    "id": 38,
+    "name": "Glider",
+    "description": "Falling with style. Here is a milestone for hanging and gliding.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 250,
+        "permit_points": 200
+      },
+      {
+        "count": 500,
+        "permit_points": 200
+      },
+      {
+        "count": 1000,
+        "permit_points": 200
+      },
+      {
+        "count": 5000,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/glider.png"
+  },
+  {
+    "id": 39,
+    "name": "Green Grocer",
+    "description": "Here is a milestone for selling fruit.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/green-grocer.png"
+  },
+  {
+    "id": 40,
+    "name": "Green Thumb",
+    "description": "Planting seeds in the red dirt. They grow up so fast. Here is a milestone for planting some seeds.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/green-thumb.png"
+  },
+  {
+    "id": 41,
+    "name": "Grill Master",
+    "description": "Chuck another steak on the barbie, mate. A milestone for grilling up some meat to eat!",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/grill-master.png"
+  },
+  {
+    "id": 42,
+    "name": "Grinding Down",
+    "description": "Grinding rocks down into powder. Here is a milestone for using a stone grinder a bunch.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/grinding-down.png"
+  },
+  {
+    "id": 43,
+    "name": "Hairy Good",
+    "description": "Here is a milestone for shearing Pleep.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/hairy-good.png"
+  },
+  {
+    "id": 44,
+    "name": "Hard Worker",
+    "description": "Watch your energy. If you push yourself too far or if you stay out too late you will faint. You'll lose stuff if you pass out. Here's a milestone for fainting, but try not to from now on.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/hard-worker.png"
+  },
+  {
+    "id": 45,
+    "name": "Harvest Master",
+    "description": "Picking fruit and logs off the ground will get you far in this place. Here is a milestone for gathering lots of stuff up.",
+    "levels": [
+      {
+        "count": 100,
+        "permit_points": 50
+      },
+      {
+        "count": 500,
+        "permit_points": 50
+      },
+      {
+        "count": 1000,
+        "permit_points": 50
+      },
+      {
+        "count": 2000,
+        "permit_points": 50
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/harvest-master.png"
+  },
+  {
+    "id": 46,
+    "name": "Helpful Friend",
+    "description": "You help anyone that asks, eh? Here is a milestone for doing a lot of favours.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      },
+      {
+        "count": 200,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/helpful-friend.png"
+  },
+  {
+    "id": 47,
+    "name": "Hive Head",
+    "description": "Beehives. You can smash 'em or sell them. Here is a milestone for selling a beehive.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/hive-head.png"
+  },
+  {
+    "id": 48,
+    "name": "Homemaker",
+    "description": "From tent, to house to even bigger house! Here is a milestone for upgrading your home.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 750
+      },
+      {
+        "count": 2,
+        "permit_points": 750
+      },
+      {
+        "count": 3,
+        "permit_points": 750
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/homemaker.png"
+  },
+  {
+    "id": 49,
+    "name": "Hot Fruit",
+    "description": "Cooked fruit. Sounds gross, I know. It might be... Anyway, here is a milestone for cooking fruit.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/hot-fruit.png"
+  },
+  {
+    "id": 50,
+    "name": "Human Mower",
+    "description": "No matter how much you clear it seems to come back. Mowing never ends. Here is a milestone for chopping grass.",
+    "levels": [
+      {
+        "count": 50,
+        "permit_points": 50
+      },
+      {
+        "count": 250,
+        "permit_points": 50
+      },
+      {
+        "count": 1000,
+        "permit_points": 50
+      },
+      {
+        "count": 5000,
+        "permit_points": 50
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/human-mower.png"
+  },
+  {
+    "id": 51,
+    "name": "Ichthyologist",
+    "description": "You make sure you document all the different fish you've caught. Here is a milestone for adding new species of fish to your Pedia.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 100
+      },
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 20,
+        "permit_points": 100
+      },
+      {
+        "count": 25,
+        "permit_points": 100
+      },
+      {
+        "count": 35,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/ichthyologist.png"
+  },
+  {
+    "id": 52,
+    "name": "I Drive",
+    "description": "Travelling on foot is for fools. Here is a milestone for travelling in style via vehicle.",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 250,
+        "permit_points": 200
+      },
+      {
+        "count": 500,
+        "permit_points": 200
+      },
+      {
+        "count": 1000,
+        "permit_points": 200
+      },
+      {
+        "count": 5000,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/i-drive.png"
+  },
+  {
+    "id": 53,
+    "name": "Knitted Out",
+    "description": "Looking good in some new threads. Here is a milestone for buying clothes.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/knitted-out.png"
+  },
+  {
+    "id": 54,
+    "name": "Lawn Master",
+    "description": "Mowing the lawn. You're in suburbia now. Here is a milestone for mowing the lawn.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 200,
+        "permit_points": 100
+      },
+      {
+        "count": 500,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/lawn-master.png"
+  },
+  {
+    "id": 55,
+    "name": "Locksmith",
+    "description": "Unlocking doors with your keys. Where does the key go? Who knows. Here is a milestone for using keys.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      },
+      {
+        "count": 10,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 50,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/locksmith.png"
+  },
+  {
+    "id": 56,
+    "name": "Making Bars",
+    "description": "Smelting. Oh, you've been smelting alright. Here is a milestone for smelting ore into bars.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/making-bars.png"
+  },
+  {
+    "id": 57,
+    "name": "Ore or Nothing",
+    "description": "You've smashed a couple of them rocks filled with ore. Here is a milestone for smashing ore deposits.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/ore-or-nothing.png"
+  },
+  {
+    "id": 58,
+    "name": "Painter",
+    "description": "Painting vehicles lets you know which one is yours. Here is a milestone for making it your own with a nice paint job.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/painter.png"
+  },
+  {
+    "id": 59,
+    "name": "Pearl Picker",
+    "description": "Here is a milestone for diving for treasure.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      },
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 20,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/pearl-picker.png"
+  },
+  {
+    "id": 60,
+    "name": "Pen Pal",
+    "description": "The more friendly you are with someone the more likely they will send you mail! Here is a milestone for receiving letters.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      },
+      {
+        "count": 15,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/pen-pal.png"
+  },
+  {
+    "id": 61,
+    "name": "Pet Petter",
+    "description": "You treat your feathered and furred friends well. Here is a milestone for petting your animals.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/pet-petter.png"
+  },
+  {
+    "id": 62,
+    "name": "Photographer",
+    "description": "Taking photos. Saving memories. Here is a milestone for taking some photos.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/photographer.png"
+  },
+  {
+    "id": 63,
+    "name": "Poisoned Person",
+    "description": "Being poisoned might not kill you, but it will take a lot of energy out of you. Here is a one time milestone for being poisoned. But try not to be from now on, okay?",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/poisoned-person.png"
+  },
+  {
+    "id": 64,
+    "name": "Product Processor",
+    "description": "Take those animal products and make them better! Here is a milestone for making something from animal products.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      },
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      },
+      {
+        "count": 200,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/product-processor.png"
+  },
+  {
+    "id": 65,
+    "name": "Rock On",
+    "description": "Smashing rocks is hard work. But sometimes they have stuff in them! Here is a milestone for smashing rocks",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/rock-on.png"
+  },
+  {
+    "id": 66,
+    "name": "Savy Shopper",
+    "description": "Here is a milestone for spending Dinks.",
+    "levels": [
+      {
+        "count": 10000,
+        "permit_points": 250
+      },
+      {
+        "count": 50000,
+        "permit_points": 250
+      },
+      {
+        "count": 100000,
+        "permit_points": 250
+      },
+      {
+        "count": 500000,
+        "permit_points": 250
+      },
+      {
+        "count": 1500000,
+        "permit_points": 250
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/savy-shopper.png"
+  },
+  {
+    "id": 67,
+    "name": "Saw'll Good",
+    "description": "You like wood, right? But what about square wood? Here is a milestone for cutting wood into planks.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/sawll-good.png"
+  },
+  {
+    "id": 68,
+    "name": "Seeds Sale",
+    "description": "Here is a milestone for buying seeds.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/seeds-sale.png"
+  },
+  {
+    "id": 69,
+    "name": "Shark Hunter",
+    "description": "Going on a fishing trip but you caught a shark. Crikey! Here is a milestone for reeling in a beast.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 400
+      },
+      {
+        "count": 10,
+        "permit_points": 400
+      },
+      {
+        "count": 20,
+        "permit_points": 400
+      },
+      {
+        "count": 50,
+        "permit_points": 400
+      },
+      {
+        "count": 100,
+        "permit_points": 400
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/shark-hunter.png"
+  },
+  {
+    "id": 70,
+    "name": "Shell Yeah",
+    "description": "Shells are nature's way of littering. Here is a milestone for picking up those bad boys.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/shell-yeah.png"
+  },
+  {
+    "id": 71,
+    "name": "Shellfish Lover",
+    "description": "You've got to squeeze for every Dink you can. Even if it means dealing with shells. Here is a milestone for selling shells.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/shellfish-lover.png"
+  },
+  {
+    "id": 72,
+    "name": "Smashing",
+    "description": "What are these things even made of? Here is a milestone for breaking tools.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 100
+      },
+      {
+        "count": 25,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      },
+      {
+        "count": 500,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/smashing.png"
+  },
+  {
+    "id": 73,
+    "name": "Soil Mover",
+    "description": "Pick up some dirt, put it there. Here is a milestone for moving soil.",
+    "levels": [
+      {
+        "count": 25,
+        "permit_points": 100
+      },
+      {
+        "count": 100,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      },
+      {
+        "count": 5000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/soil-mover.png"
+  },
+  {
+    "id": 74,
+    "name": "Stumped",
+    "description": "You can't just chop a tree down and leave the stump. Here is a milestone for getting rid of the lil' stumps that are there after the tree falls down.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/stumped.png"
+  },
+  {
+    "id": 75,
+    "name": "Stylish Hair",
+    "description": "Here is a milestone for getting haircuts.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/stylish-hair.png"
+  },
+  {
+    "id": 76,
+    "name": "Super Taster",
+    "description": "Fruit? Meat? Fungus? It doesn't matter. Food will give you energy to keep doing your tasks all day long. Here is a milestone for eating things!",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/super-taster.png"
+  },
+  {
+    "id": 77,
+    "name": "Teleporter",
+    "description": "Tele-Towers are handy. But are you still you? Oh well, here is a milestone for using the Tele-Towers.",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 500
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/teleporter.png"
+  },
+  {
+    "id": 78,
+    "name": "Timber",
+    "description": "Sometime trees get in the way and sometimes you just need to borrow their wood for a bit. Here is a milestone for chopping down trees.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/timber.png"
+  },
+  {
+    "id": 79,
+    "name": "Tool Improvement",
+    "description": "What if you take the tools from John's shop and make them better? Here is a milestone for upgrading tools.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/tool-improvement.png"
+  },
+  {
+    "id": 80,
+    "name": "Town Planner",
+    "description": "Building the town - one building at a time. Here is a milestone for finishing a new building!",
+    "levels": [
+      {
+        "count": 1,
+        "permit_points": 250
+      },
+      {
+        "count": 2,
+        "permit_points": 250
+      },
+      {
+        "count": 3,
+        "permit_points": 250
+      },
+      {
+        "count": 4,
+        "permit_points": 250
+      },
+      {
+        "count": 5,
+        "permit_points": 250
+      },
+      {
+        "count": 6,
+        "permit_points": 250
+      },
+      {
+        "count": 7,
+        "permit_points": 250
+      },
+      {
+        "count": 8,
+        "permit_points": 250
+      },
+      {
+        "count": 9,
+        "permit_points": 250
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/town-planner.png"
+  },
+  {
+    "id": 81,
+    "name": "Tractor Time",
+    "description": "Now it's time to really farm. Here is a milestone for getting a tractor.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/tractor-time.png"
+  },
+  {
+    "id": 82,
+    "name": "Trap Time",
+    "description": "Trapping animals for relocation is a kind way to deal with them. It's not easy to do, either! Here is a milestone for trapping an animal.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/trap-time.png"
+  },
+  {
+    "id": 83,
+    "name": "Walking About",
+    "description": "Staying in one spot isn't generally considered exploring. You're going to cover some distance, that's for sure! Here is a milestone for travelling!",
+    "levels": [
+      {
+        "count": 5,
+        "permit_points": 200
+      },
+      {
+        "count": 20,
+        "permit_points": 200
+      },
+      {
+        "count": 100,
+        "permit_points": 200
+      },
+      {
+        "count": 250,
+        "permit_points": 200
+      },
+      {
+        "count": 500,
+        "permit_points": 200
+      },
+      {
+        "count": 1000,
+        "permit_points": 200
+      },
+      {
+        "count": 5000,
+        "permit_points": 200
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/walking-about.png"
+  },
+  {
+    "id": 84,
+    "name": "Wall Change",
+    "description": "New walls. Same old house. Here is a milestone for buying wallpaper.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/wall-change.png"
+  },
+  {
+    "id": 85,
+    "name": "Wet Thumb",
+    "description": "Watering plants is good for your soul and good for the plants general health. It's win-win. So here is a milestone for watering a lot of plants!",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/wet-thumb.png"
+  },
+  {
+    "id": 86,
+    "name": "Wheelie Cool",
+    "description": "Move dirt from here to there. Here is a milestone for using a Wheelbarrow.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/wheelie-cool.png"
+  },
+  {
+    "id": 87,
+    "name": "Wild Seeder",
+    "description": "You've gotta give back after you take. Here is a milestone for planting wild seeds for grass, bushes and trees.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/wild-seeder.png"
+  },
+  {
+    "id": 88,
+    "name": "Zoologist",
+    "description": "You are documenting all the wildlife here on the island. Here is a milestone for adding a new animal to your Pedia.",
+    "levels": [
+      {
+        "count": 10,
+        "permit_points": 100
+      },
+      {
+        "count": 50,
+        "permit_points": 100
+      },
+      {
+        "count": 250,
+        "permit_points": 100
+      },
+      {
+        "count": 1000,
+        "permit_points": 100
+      }
+    ],
+    "image_url": "https://api.dinkumapi.com/images/milestones/zoologist.png"
+  }
+]
